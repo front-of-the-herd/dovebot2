@@ -1,0 +1,107 @@
+Dovedale Primary School: Black History Week 2015
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Black History Week 2015
+Date:
+4th Nov 2015 @ 12:35pm
+Hi people of Dovedale...It's Lola here from 6C #thebestclass, to tell you all about
+BLACK HISTORY WEEK
+.
+So as you probaly know it has been
+BLACK HISTORY WEEK
+and we have had alot of fun with Miss C. We have leart all about the march to Selma. I've leart that when the black Americans first got to the brige police had batons and tear gas and ...well I guess you know what happend after that, but it was a great week so hopfully everyone had fun and learnt a lot.  The black Americans were protesting for their right to vote.
+That's it from me. Thanks for reading type for you soon!!xx
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

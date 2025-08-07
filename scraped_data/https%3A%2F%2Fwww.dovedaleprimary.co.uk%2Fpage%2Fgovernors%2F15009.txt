@@ -1,0 +1,190 @@
+Dovedale Primary School: Governors
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Governors
+Background
+School governors are one of the country's largest voluntary groups with around 345,000 school governors contributing to strategic development and raising standards of achievement at over 30,000 schools.
+School governors are members of their school's governing body which is a "corporate body". A corporate body has a legal identity that is separate from its members and as a result, individual governors are generally protected from personal liability as a result of the governing body's decisions and actions, provided they act honestly, reasonably and in good faith.
+Individual governors have no power or right to act on behalf of the governing body except where the whole governing body has delegated a specific function to that individual or where regulations specify that a function is to be exercised in a particular way.
+School governors are drawn from different parts of the community, such as parents, the Staff, the Local Authority, the Community and other groups. This helps to ensure that the governing body has sufficient diversity of views and experience but does not mean that governors of a particular category "represent" that group on the governing body. For example, Parent Governors do not act as a representative of the parents at the school and do not report back to them.
+Responsibilities
+The governing body has a range of duties and powers and a general responsibility for the conduct of the school with a view to promoting high standards of educational achievement including setting targets for pupil achievement, managing the school's finances, making sure the curriculum is balanced and broadly based, appointing staff and reviewing staff performance and pay and many more.
+The governing body has considerable discretion as to how to discharge its responsibilities but is required to constitute itself in line with the regulations and to appoint a chair and vice chair. The governing body may delegate certain of its responsibilities to certain governors or committees of governors, although in general, it is not compelled to do so.
+Our Governors
+Governor
+Designation
+Term of Office
+Voting Rights
+Pecuniary interests
+Mr David Bedford
+Chair / Co-opted
+31 December 2023 - 30 December 2027
+Yes
+None
+Mr David Jones
+Community
+1 April 2022 - 31 March 2026
+Yes
+None
+Mr Nik Smith
+Head Teacher
+January 2020 onwards
+Yes
+None
+Mrs Sarah Finnegan
+Staff Governor
+29 November 2024 - 28 November 2028
+Yes
+None
+Mrs Kate Norfolk
+Vice Chair
+Local Authority
+1 January 2024- 31 December 2027
+Yes
+Teaches Massage and Mindfulness within the school. Lead Forest School Practitioner.
+Ms Janine Harries
+Parent Governor
+29 January 2024 - 28 January 2028
+Yes
+Mrs Claire Povlotsky
+Co-opted
+31 December 2023 - 30 December 2027
+Yes
+Works for Liverpool Schools Sports Partnership
+Mrs Kacey Clark – Jones
+Co-opted
+31 December 2023 - 30 December 2027
+Yes
+None
+Mrs Abby Carpenter
+Parent Governor
+February 2023-February 2027
+Yes
+None
+Mrs Jo Jones
+Associate Governor
+January 2020 onwards
+No
+None
+Mrs Issy Rogers
+Associate
+Governor
+January 2020 onwards
+No
+None
+Mr Matt O'Toole
+Associate
+Governor
+January 2020 onwards
+No
+None
+Mrs Holly Dwan
+Associate
+Governor
+January 2020 onwards
+No
+None
+To contact the Chair of Governors please do this through the school office.
+Our Governors all attend Full Governor Meetings which covers:  Finance, Premises, Staffing and  Curriculum and Standards. Child Protection and safeguarding come under the remit of the Full Governors.
+Link below to School Financial Benchmarking
+https://schools-financial-benchmarking.service.gov.uk/school/detail?urn=141960
+Files to Download
+Instrument of Government from 2019 Dovedale.pdf
+Governor attendance 22-23.pdf
+Terms of reference 2023-2024.pdf
+Finance information.pdf
+window.pages = {"data":[{"id":"14938","title":"Applying for a place at Dovedale Primary School","current":0,"link":"\/page\/applying-for-a-place-at-dovedale-primary-school\/14938","link_target":"_self"},{"id":"14933","title":"School Meal Menus","current":0,"link":"\/page\/school-meal-menus\/14933","link_target":"_self"},{"id":"14944","title":"Out of Hours Kids Club","current":0,"link":"\/page\/out-of-hours-kids-club\/14944","link_target":"_self"},{"id":"20206","title":"Dovedale Children's Centre","current":0,"link":"\/page\/dovedale-childrens-centre\/20206","link_target":"_self"},{"id":"15009","title":"Governors","current":1,"link":"\/page\/governors\/15009","link_target":"_self"},{"id":"23682","title":"Attainment and Standards","current":0,"link":"\/page\/attainment-and-standards\/23682","link_target":"_self"},{"id":"14936","title":"School Policies","current":0,"link":"\/page\/school-policies\/14936","link_target":"_self"},{"id":"26247","title":"Pupil Premium","current":0,"link":"\/page\/pupil-premium\/26247","link_target":"_self"},{"id":"32974","title":"Ofsted reports","current":0,"link":"\/page\/ofsted-reports\/32974","link_target":"_self"},{"id":"38045","title":"P.E and Sport Premium","current":0,"link":"\/page\/pe-and-sport-premium\/38045","link_target":"_self"},{"id":"14946","title":"Staff","current":0,"link":"\/page\/staff\/14946","link_target":"_self"},{"id":"17096","title":"Attendance","current":0,"link":"\/page\/attendance\/17096","link_target":"_self"},{"id":"14997","title":"Term Dates","current":0,"link":"\/page\/term-dates\/14997","link_target":"_self"},{"id":"28104","title":"Uniform","current":0,"link":"\/page\/uniform\/28104","link_target":"_self"},{"id":"104794","title":"Medical","current":0,"link":"\/page\/medical\/104794","link_target":"_self"},{"id":"18137","title":"Dovedale PTA","current":0,"link":"\/page\/dovedale-pta\/18137","link_target":"_self"},{"id":"143343","title":"Letters and school information","current":0,"link":"\/page\/letters-and-school-information\/143343","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

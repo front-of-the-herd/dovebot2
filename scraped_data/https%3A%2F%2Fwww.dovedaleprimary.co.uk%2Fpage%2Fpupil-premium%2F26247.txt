@@ -1,0 +1,110 @@
+Dovedale Primary School: Pupil Premium
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Pupil Premium
+The primary aim of our school is to ensure that all children are able to access all aspects of the provision in order to achieve the highest standards of achievement and to maximise progress in relation to  individual entry points.
+The Pupil Premium is funding provided to schools which is additional to main school funding. It is allocated according to the number of pupils on roll who are eligible for free school meals (FSM), a smaller amount allocated according to the number of children of service families, and an allocation for each pupil who has been ‘Looked After’ (in care) for 6 months or more. In 2012, funding was extended to include pupils who have ever been eligible for free school meals within the past 6 years (Ever 6).
+It is for schools to decide how the Pupil Premium grant is spent, since they are best placed to assess what additional provision should be made for the individual pupils within their responsibility. However, schools are held accountable for how they have used the additional funding to support these identified pupils and must measure the impact of the provision in order to prove it has been spent effectively.
+DOVEDALE PRIMARY PUPIL PREMIUM PRINCIPLES
+To develop a curriculum and provide teaching and learning opportunities which meet the needs of all of our pupils.
+To support any pupils who are legitimately deemed to be disadvantaged or at risk of being unable to access learning effectively.
+To guarantee that appropriate provision is made for pupils who belong to vulnerable groups, including ensuring that the needs of children who are in receipt of pupil premium funding are effectively assessed and addressed.
+To ensure all pupils (regardless of household income) are able to access the full range of school extra-curricular activities and events.
+In making provision for pupils, we recognise that not all pupils eligible for PPG will be disadvantaged. We also understand that not all pupils who are disadvantaged are registered or qualify for PPG.
+Files to Download
+PUPIL PREMIUM STRATEGY STATEMENT 2023-24 reviewed Dec 2024.docx
+window.pages = {"data":[{"id":"14938","title":"Applying for a place at Dovedale Primary School","current":0,"link":"\/page\/applying-for-a-place-at-dovedale-primary-school\/14938","link_target":"_self"},{"id":"14933","title":"School Meal Menus","current":0,"link":"\/page\/school-meal-menus\/14933","link_target":"_self"},{"id":"14944","title":"Out of Hours Kids Club","current":0,"link":"\/page\/out-of-hours-kids-club\/14944","link_target":"_self"},{"id":"20206","title":"Dovedale Children's Centre","current":0,"link":"\/page\/dovedale-childrens-centre\/20206","link_target":"_self"},{"id":"15009","title":"Governors","current":0,"link":"\/page\/governors\/15009","link_target":"_self"},{"id":"23682","title":"Attainment and Standards","current":0,"link":"\/page\/attainment-and-standards\/23682","link_target":"_self"},{"id":"14936","title":"School Policies","current":0,"link":"\/page\/school-policies\/14936","link_target":"_self"},{"id":"26247","title":"Pupil Premium","current":1,"link":"\/page\/pupil-premium\/26247","link_target":"_self"},{"id":"32974","title":"Ofsted reports","current":0,"link":"\/page\/ofsted-reports\/32974","link_target":"_self"},{"id":"38045","title":"P.E and Sport Premium","current":0,"link":"\/page\/pe-and-sport-premium\/38045","link_target":"_self"},{"id":"14946","title":"Staff","current":0,"link":"\/page\/staff\/14946","link_target":"_self"},{"id":"17096","title":"Attendance","current":0,"link":"\/page\/attendance\/17096","link_target":"_self"},{"id":"14997","title":"Term Dates","current":0,"link":"\/page\/term-dates\/14997","link_target":"_self"},{"id":"28104","title":"Uniform","current":0,"link":"\/page\/uniform\/28104","link_target":"_self"},{"id":"104794","title":"Medical","current":0,"link":"\/page\/medical\/104794","link_target":"_self"},{"id":"18137","title":"Dovedale PTA","current":0,"link":"\/page\/dovedale-pta\/18137","link_target":"_self"},{"id":"143343","title":"Letters and school information","current":0,"link":"\/page\/letters-and-school-information\/143343","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

@@ -1,0 +1,106 @@
+Dovedale Primary School: Artsmark Silver Award - November 2020
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Artsmark Silver Award - November 2020
+Dear Mrs  Navarro,
+Dovedale Community Primary School
+Thank you for your submissions to Artsmark.
+Your Statement of Commitment and Case Study/Statement of Impact have been assessed and we are delighted to inform you that your setting has been awarded an Artsmark Silver Award. Congratulations!
+We have made the following comment about your submissions:
+Dovedale Community Primary School has carefully considered your Art and Design offer and the needs of your children and developed stronger, embedded Art curriculum planning and implementation backed up by CPD for your staff. All teaching staff understand the ambitions for arts and culture, and are engaged in developing these across the whole setting. Children’s art is showcased and displayed effectively, including plans for how to deliver this during the pandemic. You have clear schemes of work and programmes of study to show an increase of knowledge, skills and understanding for Art across all phases and you use the Art curriculum to help children and young people explore or make connections in other subjects. Consistent arts and cultural experiences have been developed for all children including performance and having work displayed in the community. You have regular in-house opportunities for sharing and developing good practice in educators’ knowledge, skills and understanding of arts and cultural education. You are using arts and cultural professionals and organisations to support the delivery of quality provision, for example Bluecoat and artist Ian Fennelly. To develop further you could consider how you can develop the voice of children by involving them in planning and delivering authentic arts and cultural experiences; as planned consider how you can develop the music, dance and drama curriculum to ensure you have equally clear schemes of work and programmes of study as you do for Art. You could also consider how you could use high-quality arts and cultural provision to connect subjects and learning outcomes across all phases, linking to the whole setting’s pedagogy, and how you develop your wider curriculum offer including clubs and activities that go beyond formal teaching. You could also develop your work with professional artists and organisations to develop your educators’ knowledge, skills and understanding of delivering high-quality arts and cultural education, perhaps building on current relationships with artists, and develop partnerships with a range of arts and cultural organisations that will have a positive impact on outcomes for children, young people and staff.
+Congratulations on your Artsmark Silver Award!
+window.pages = {"data":[{"id":"135200","title":"Artsmark Silver Award - 2022","current":0,"link":"\/page\/artsmark-silver-award-2022\/135200","link_target":"_self"},{"id":"86767","title":"Artsmark Silver Award - November 2020","current":1,"link":"\/page\/artsmark-silver-award---november-2020\/86767","link_target":"_self"},{"id":"135198","title":"What does drawing look like at Dovedale?","current":0,"link":"\/page\/what-does-drawing-look-like-at-dovedale\/135198","link_target":"_self"},{"id":"138640","title":"Art Experiences","current":0,"link":"\/page\/art-experiences\/138640","link_target":"_self"},{"id":"135199","title":"What does painting look like at Dovedale?","current":0,"link":"\/page\/what-does-painting-look-like-at-dovedale\/135199","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

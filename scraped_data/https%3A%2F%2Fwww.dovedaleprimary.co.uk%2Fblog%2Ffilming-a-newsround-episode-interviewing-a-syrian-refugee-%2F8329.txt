@@ -1,0 +1,108 @@
+Dovedale Primary School: Filming a Newsround episode: Interviewing a Syrian refugee
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Filming a Newsround episode: Interviewing a Syrian refugee
+Date:
+24th Feb 2016 @ 10:28am
+Hello people of Dovedale,
+Today we did some acting -  one of my personal favourites.We worked in groups of three: one person would be a presenter, another person would be the News reporter and the last person would be Manar, who is a Syrian refugee.  It was a great way to think about how reugees live everyone got a turn to show their performance.  And of course it wouldn't be 6C if there wasn't a bit of competition! We had three winners:
+Ryan, Kirsten and Lola.
+Thea, Khaleem and Khyro.
+Lily, Emma and Alice.
+I had an amazing time and I know everyone else did as well. We can't wait to lean more about the refugees later in the week.
+Thanks for reading....Lola.
+A shout out : Happy Birthday Lily!!!
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

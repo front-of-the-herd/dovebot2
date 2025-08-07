@@ -1,0 +1,104 @@
+Dovedale Primary School: Out of Hours Kids Club
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Out of Hours Kids Club
+We are able to provide a Breakfast and After School Club on our school site. Hours are 7.45am -8.40am and 3.20-6pm.
+The infant department hosts the Breakfast Club which is available to children from Reception to Year 6. The infant department hosts an After School Club for children in Reception to Year 2 and the junior department hosts the 'After School Club' for children in Year 3 to Year 6.
+Links will open in a new window
+http://www.outofhours-kidsclub.com/
+Click on this link for more information including pricing.
+window.pages = {"data":[{"id":"14938","title":"Applying for a place at Dovedale Primary School","current":0,"link":"\/page\/applying-for-a-place-at-dovedale-primary-school\/14938","link_target":"_self"},{"id":"14933","title":"School Meal Menus","current":0,"link":"\/page\/school-meal-menus\/14933","link_target":"_self"},{"id":"14944","title":"Out of Hours Kids Club","current":1,"link":"\/page\/out-of-hours-kids-club\/14944","link_target":"_self"},{"id":"20206","title":"Dovedale Children's Centre","current":0,"link":"\/page\/dovedale-childrens-centre\/20206","link_target":"_self"},{"id":"15009","title":"Governors","current":0,"link":"\/page\/governors\/15009","link_target":"_self"},{"id":"23682","title":"Attainment and Standards","current":0,"link":"\/page\/attainment-and-standards\/23682","link_target":"_self"},{"id":"14936","title":"School Policies","current":0,"link":"\/page\/school-policies\/14936","link_target":"_self"},{"id":"26247","title":"Pupil Premium","current":0,"link":"\/page\/pupil-premium\/26247","link_target":"_self"},{"id":"32974","title":"Ofsted reports","current":0,"link":"\/page\/ofsted-reports\/32974","link_target":"_self"},{"id":"38045","title":"P.E and Sport Premium","current":0,"link":"\/page\/pe-and-sport-premium\/38045","link_target":"_self"},{"id":"14946","title":"Staff","current":0,"link":"\/page\/staff\/14946","link_target":"_self"},{"id":"17096","title":"Attendance","current":0,"link":"\/page\/attendance\/17096","link_target":"_self"},{"id":"14997","title":"Term Dates","current":0,"link":"\/page\/term-dates\/14997","link_target":"_self"},{"id":"28104","title":"Uniform","current":0,"link":"\/page\/uniform\/28104","link_target":"_self"},{"id":"104794","title":"Medical","current":0,"link":"\/page\/medical\/104794","link_target":"_self"},{"id":"18137","title":"Dovedale PTA","current":0,"link":"\/page\/dovedale-pta\/18137","link_target":"_self"},{"id":"143343","title":"Letters and school information","current":0,"link":"\/page\/letters-and-school-information\/143343","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

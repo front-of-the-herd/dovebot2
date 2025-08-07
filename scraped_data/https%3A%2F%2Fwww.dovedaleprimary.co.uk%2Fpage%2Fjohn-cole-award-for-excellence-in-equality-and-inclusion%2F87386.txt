@@ -1,0 +1,113 @@
+Dovedale Primary School: John Cole Award for Excellence in Equality and Inclusion
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+John Cole Award for Excellence in Equality and Inclusion
+24th November 2020
+It is my pleasure to inform you that Dovedale has been awarded the very prestigious John Cole Award for Excellence in Equality and Inclusion. This makes me incredibly proud of Dovedale and our community.
+Below is the press statement:
+EMTAS are delighted to announce that Dovedale Primary School are the 2020 recipient of the John Cole Award for Excellence in Equality and Inclusion.  Many colleagues across the city will have fond memories of John Cole, who devoted his career to support equality and inclusion, and was a voice for some of our most vulnerable children and families.
+In 2017, EMTAS introduced the Memorial Award, to remember such a compassionate colleague and friend who left a hole, not only within the EMTAS family, but within many of our communities.
+Gill Rowlands, EMTAS Manager said:
+“Dovedale Primary is a well deserving recipient, their practice embodies all that was close to John's heart, from their work on School of Sanctuary to the warm and inclusive welcome the school provides to the whole school community and their support for one of our valued charities Asylum Link.”
+The award ceremony today was that little bit different, but EMTAS were delighted to be able to celebrate with Dovedale Primary Headteacher, Nik Smith and teacher Drew Jones who have worked incredibly hard to reach out and support the whole school community.
+EMTAS were joined by Liverpool City Council’s Director for Children’s and Young Peoples Services, Steve Reddy and Cabinet Member for Education, Employment and Skills, Barbara Murray, alongside Principal Primary Officer, Alison Green from School Improvement Liverpool and Ian Downing from Asylum Link.
+To mark the occasion, performance poet Levi Tafari shared a personal message and poem to congratulate Dovedale!
+Cllr Barbara Murray said:
+“EMTAS has spoken to me about the schools’ journey to sanctuary, how this has been reflected in both the physical environment and also through their curriculum too. I know that the school has done some amazing work with parents and carers, including coffee morning drop ins where parents who speak other languages have been encouraged to speak and celebrate their mother tongue! This is such a powerful and celebratory message! Raising awareness about the plight of asylum seekers and refugees, building that empathy and supporting a local charity makes it very real and is really heart-warming. Dovedale really is a fitting recipient.”
+Files to Download
+John Cole Award for Excellence in Equality and Inclusion
+window.pages = {"data":[{"id":"87386","title":"John Cole Award for Excellence in Equality and Inclusion","current":1,"link":"\/page\/john-cole-award-for-excellence-in-equality-and-inclusion\/87386","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

@@ -1,0 +1,174 @@
+Dovedale Primary School: Spelling
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Spelling
+Teaching of Spelling
+At Dovedale, we teach spelling based on a phoneme-centred approach from Reception through to Year 6.
+In Early Years, children will learn to spell through Read Write Inc. phonics teaching, in small groups, daily until they reach Year 2. From Year 2, children will be taught spelling practise using a weekly set of words that have a common phoneme sound in them - one which they will have been exposed to already through phonic teaching.
+For example the first week of spelling words may all follow the same phoneme (sound) -ay-
+Once children have understood the sound and the different spellings for the -ay- sound (graphemes), they will then explore further words with the same sound spelt in different ways.
+Key Stage 2 teachers teach spelling for 15 minutes a day, five days a week.
+‘Setting’ the spellings on a Monday, teaching each day, and ‘testing’ them on the Friday removes the accountability from parents to practise them at home as all the necessary practice is done at school. Of course, parents can consolidate this learning if they wish, and we will send the spellings home on Mondays for practise.
+A general overview of a week of spelling lessons would look like this in Years 2 to 6:
+The Friday test will be done using the dictation method and would look something like this:
+There is a
+p
+ie
+ce
+of dust on the
+c
+ei
+ling
+.
+I
+guarant
+ee
+you will win
+fort
+y
+pounds.
+You must
+compl
+e
+t
+e
+the test
+imm
+e
+diatel
+y
+.
+This
+magaz
+i
+n
+e
+seems
+famil
+i
+ar
+.
+I found
+p
+ea
+ce
+and quiet by the
+chimn
+ey
+.
+We would be celebrating the phoneme of the week being represented by the correct grapheme spelling, as opposed to the entire word being spelt correctly (although that is a bonus!) We want children to gain ‘marks’ for correct spelling of the grapheme (in this
+case
+-ie- -y- -ea
+- all make the
+ee
+sound) not just the spelling of the full word.
+We have also included words pertinent to our wider curriculum, e.g.
+electricit
+y
+to link with our science units.
+Selecting word lists
+To select words for teaching in each year group, we have used the 44 phonemes and cross-referenced them to words in line with the National Curriculum’s spelling rules, creating a sequence of learning where teaching is incremental: building up knowledge in careful steps.
+For example, the word ‘outrageous’ could be taught under the Year 3/4 spelling rule of adding the suffix -ous. However, via a phoneme-centred approach, the word ‘outrageous’ could appear in multiple places throughout the spelling curriculum: under the -ow- sound (here spelt ‘ou’); the -ay- sound (here spelt with the split digraph ‘a-e’); and the -j- sound (here spelt ‘ge’). Drawing attention to the suffix in this word but not making it the main focus means that other words with the suffix -ous would appear throughout different weeks rather than all at once. This regular exposure to the same word – but through different phoneme lenses – provides a good opportunity for retrieval practice.
+As a school, we began building a programme by listing the graphemes and words that the children had been exposed to in KS1. We included words from both the Year 3/4 and Year 5/6 statutory word lists as well as those suggested in the NC spelling appendix for each rule.
+This phoneme-centred approach means that the children are overlearning many of the words suggested by the National Curriculum.
+At Dovedale, we realise that ‘teaching to the top’ and scaffolding as appropriate, is a much more successful means of promoting achievement for all. Our mastery approach to teaching spellings is rooted in the belief that all children can learn to spell, rather than just the lucky few with a good memory for the ‘rules’.
+Impact
+The data for the end of KS2 revealed that children were making good progress in spelling, and that all groups were above national average.
+Attainment of children was at 79%. National average was 72%
+Files to Download
+50 ways to learn a spelling
+window.pages = {"data":[{"id":"25614","title":"Reading","current":0,"link":"\/page\/reading\/25614","link_target":"_self"},{"id":"35702","title":"Phonics","current":0,"link":"\/page\/phonics\/35702","link_target":"_self"},{"id":"118081","title":"Spelling","current":1,"link":"\/page\/spelling\/118081","link_target":"_self"},{"id":"140427","title":"Writing","current":0,"link":"\/page\/writing\/140427","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

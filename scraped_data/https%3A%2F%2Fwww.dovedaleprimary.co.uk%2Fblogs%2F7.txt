@@ -1,0 +1,166 @@
+Dovedale Primary School: Our blogs
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Our blogs
+Page
+1
+2
+...
+6
+7
+8
+...
+18
+19
+Weekly Y3 Blog 16.11.18
+, by  Year 3 - Mr Burton, Miss King, Mr Scally and Mrs Siddall
+Year 5 blog. Week beginning 5-11-18
+, by  Year 5 team - Mr McLaren, Miss Middleton, Mrs Hughson and Mrs Harrison
+Year Two Weekly Blog, 9th November
+, by  Year 2 team - Miss Graham, Mrs Milton , Miss Dysart and Miss Wylie
+Weekly Y3 Blog 09.11.18
+, by  Year 3 - Mr Burton, Miss King, Mr Scally and Mrs Siddall
+Weekly Y4 blog 09.11.18
+, by  Year 4 team - Miss Turner, Mr Powell , Mrs Bagley and Mrs Navarro
+Weekly Y1 Blog 9th November 2018
+, by  Year 1 team - Mrs Dwan, Miss Chadwick, Miss Hetherington and Miss Davies
+Y6 Weekly blog 2nd Nov
+, by  Year 6 team - Miss Cordon, Mr Hamlett, Mr O'Toole
+Weekly Y4 blog 02.11.18
+, by  Year 4 team - Miss Turner, Mr Powell , Mrs Bagley and Mrs Navarro
+Year Two Weekly Blog, 2nd Novemer
+, by  Year 2 team - Miss Graham, Mrs Milton , Miss Dysart and Miss Wylie
+Weekly Y3 Blog 02.11.18
+, by  Year 3 - Mr Burton, Miss King, Mr Scally and Mrs Siddall
+Weekly Y1 Blog 2nd November 2018
+, by  Year 1 team - Mrs Dwan, Miss Chadwick, Miss Hetherington and Miss Davies
+Year 5 Blog Week ending 19th October
+, by  Year 5 team - Mr McLaren, Miss Middleton, Mrs Hughson and Mrs Harrison
+Year 2 Weekly Blog 19th October
+, by  Year 2 team - Miss Graham, Mrs Milton , Miss Dysart and Miss Wylie
+Weekly Y1 Blog 5th October 2018
+, by  Year 1 team - Mrs Dwan, Miss Chadwick, Miss Hetherington and Miss Davies
+Weekly Y4 blog 19.10.18
+, by  Year 4 team - Miss Turner, Mr Powell , Mrs Bagley and Mrs Navarro
+Year 3 Weekly Blog 19.10.18
+, by  Year 3 - Mr Burton, Miss King, Mr Scally and Mrs Siddall
+Y6 Weekly blog 12th Oct
+, by  Year 6 team - Miss Cordon, Mr Hamlett, Mr O'Toole
+Year Two Weekly Blog 12th October
+, by  Year 2 team - Miss Graham, Mrs Milton , Miss Dysart and Miss Wylie
+Year 5 Blog Week ending 12th October
+, by  Year 5 team - Mr McLaren, Miss Middleton, Mrs Hughson and Mrs Harrison
+Weekly Y4 blog 12.10.18
+, by  Year 4 team - Miss Turner, Mr Powell , Mrs Bagley and Mrs Navarro
+Weekly Y3 Blog 12.10.18
+, by  Year 3 - Mr Burton, Miss King, Mr Scally and Mrs Siddall
+Y6 Weekly blog 5th Oct
+, by  Year 6 team - Miss Cordon, Mr Hamlett, Mr O'Toole
+Year Two Weekly Blog 5th October
+, by  Year 2 team - Miss Graham, Mrs Milton , Miss Dysart and Miss Wylie
+Weekly Y1 Blog 5th October 2018
+, by  Year 1 team - Mrs Dwan, Miss Chadwick, Miss Hetherington and Miss Davies
+Year 5 weekly blog. 5-10-18
+, by  Year 5 team - Mr McLaren, Miss Middleton, Mrs Hughson and Mrs Harrison
+Page
+1
+2
+...
+6
+7
+8
+...
+18
+19
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

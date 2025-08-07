@@ -1,0 +1,122 @@
+Dovedale Primary School: Eco Warriors
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Eco Warriors
+Meet the Dovedale Eco Warriors
+Making our school and our world a more environmentally friendly and sustainable place to be.
+We meet regularly to discuss important issues surrounding waste, energy, pollution and susatinability,
+and come up with ways we can help our school - and our world - and inspire others to come along
+with us on our eco journey.
+Find out more by clicking on our noticeboard below!
+Eco Warriors Work
+We always try to teach our children the value of being an active part of the community they belong to. Year 5 and 6 eco warriors were thanked by members of our community while out litter picking recently. We collected 3 bags of litter!
+Thanks to Liverpool City Council for providing all the equipment! #keepbritaintidy
+Eco walk. The eco team meet regularly to discuss - not only the school environment, but the local environment of our community, including the field, the streets and the residents that we interactive on a daily basis. Eco Warriors will be doing a local litter-pick walk and interviewing locals to get their opinion on the local environment. Look our for us on the local streets and... KEEP MOSSLEY HILL TIDY!
+Environment Concern
+Our eco warriors were concerned about our wildlife. Towards the end of winter and the start of spring, there tends to be little food left for birds. A bird feeder are a great way to help birds to get through the winter and to attract birds in the area so we can see them up close. Eco Warriors asked for donations of seeds, dried fruit etc so we could make 'Suet Cakes' for the birds in our area.
+We were overwhelmed by the generosity of our school family. As always, we thank our parents and carers for supporting the work our children are so passionate about.
+We have achieved the Eco-Schools Merit Award 2023!
+Walk to School
+Our eco warriors promoted a competition for designing next year’s WOW badges. The theme this year was
+‘The British Nature Walk’
+which aims to bring pupils closer to the nature found across Britain. Although we didn’t have any winners, we had so many amazing designs!
+Here are some of our fabulous entries:
+Also Wow Walk to school challenge. We were 2nd place on the leaderboard!
+Saving Energy in School
+Watch out!  Eco warriors are coming for you, teachers! Because the 'energy crisis' and rising costs for our school, eco- warriors are putting into action their new policy on saving energy. They've done their review, research and survey, and realise that the biggest energy zapper is the interactive whiteboards. They will be coming round, especially at lunchtimes with stickers for teachers who need a friendly reminder to keep devices and lights off at breaktimes and lunchtimes.
+After their latest meeting, the Eco Warriors have decided to run a competition to help remind our school to switch off their devices when they're not in use - expecially teachers! Winners will be revealed in assembly before the holiday break.
+window.pages = {"data":[{"id":"128138","title":"Prefects","current":0,"link":"\/page\/prefects\/128138","link_target":"_self"},{"id":"15012","title":"School Council","current":0,"link":"\/page\/school-council\/15012","link_target":"_self"},{"id":"129656","title":"Rocket Resilience Champions","current":0,"link":"\/page\/rocket-resilience-champions\/129656","link_target":"_self"},{"id":"20505","title":"Newspaper Club","current":0,"link":"\/page\/newspaper-club\/20505","link_target":"_self"},{"id":"128139","title":"Wellbeing Ambassadors","current":0,"link":"\/page\/wellbeing-ambassadors\/128139","link_target":"_self"},{"id":"20518","title":"Eco Warriors","current":1,"link":"\/page\/eco-warriors\/20518","link_target":"_self"},{"id":"15024","title":"Reading Ambassadors","current":0,"link":"\/page\/reading-ambassadors\/15024","link_target":"_self"},{"id":"129660","title":"Sports Ambassadors","current":0,"link":"\/page\/sports-ambassadors\/129660","link_target":"_self"},{"id":"131891","title":"eCadets","current":0,"link":"\/page\/ecadets\/131891","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

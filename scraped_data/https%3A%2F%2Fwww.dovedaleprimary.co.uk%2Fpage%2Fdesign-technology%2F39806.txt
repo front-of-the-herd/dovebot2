@@ -1,0 +1,119 @@
+Dovedale Primary School: Design & Technology
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Design & Technology
+Intent
+Dovedale Primary’s Design & technology scheme of work aims to inspire pupils to be innovative and creative thinkers who have an appreciation for the product design cycle through ideation, creation, and evaluation. All pupils, including those with SEND and vulnerable children, learn how to take risks, becoming resourceful, innovative, enterprising, and capable citizens. Through our scheme of work, we aim to build an awareness of the impact of design and technology on our lives and encourage pupils to become resourceful, enterprising citizens who will have the skills to contribute to future design advancements.
+Through the evaluation of past and present design and technology, they develop a critical understanding of its impact on daily life and the wider world. High-quality design and technology education makes an essential contribution to the creativity, culture, wealth, and well-being of the nation.
+Implementation
+All teaching of DT follows the design, make and evaluate cycle. Each stage is rooted in technical knowledge. The design process is rooted in real life, relevant contexts to give meaning to learning. While making, children are given choice and a range of tools to choose freely from. To evaluate, children can evaluate their own products against a design criteria. Each of these steps are rooted in technical knowledge and vocabulary. Food and Nutrition is a key aspect of DT and is taught every year. Children are taught to evaluate existing foods, appreciate multicultural foods and develop their own ideas against a criteria whilst upholding strict health and safety procedures. DT is taught to a high standard, where each of the stages should be given equal weight. There will be evidence in each of these stages in either the pupil’s D.T folder or class book, which will also develop to show clear progression across the key stages as they are passed up through each year group.
+Impact
+Assessment of children's learning in Design & Technology is an ongoing monitoring of children's understanding, knowledge, and skills by the class teacher, throughout lessons. This assessment is then used to inform differentiation, support and challenge required by the children. Summative assessment is conducted termly by class teachers across each year group of the school to inform the subject leader of progress or skills and knowledge still to be embedded. Design Technology is also monitored by the subject leader throughout the year in the form of book monitoring, looking at outcomes and pupil interviews to discuss their learning and understanding and establish the impact of the teaching taking place.
+Within cooking and nutrition, the children at Dovedale will deepen their language learning by gaining a better awareness of how cultures differ in our community and beyond, as well as the ability to discuss these differences.
+The expected impact of following the Dovedale Primary Design and technology scheme of work is that children will:
+Understand the functional and aesthetic properties of a range of materials and resources.
+Understand how to use and combine tools to carry out different processes for shaping, decorating, and manufacturing products.
+Build and apply a repertoire of skills, knowledge and understanding to produce high quality, innovative outcomes, including models, prototypes, CAD, and products to fulfil the needs of users, clients, and scenarios.
+Understand and apply the principles of healthy eating, diets, and recipes, including key processes, food groups and cooking equipment.
+Have an appreciation for key individuals, inventions, and events in history and of today that impact our world.
+Recognise where our decisions can impact the wider world in terms of community, social and environmental issues.
+Self-evaluate and reflect on learning at different stages and identify areas to improve.
+Files to Download
+Design & Technology Curriculum overview 2024-2025.pdf
+Design & Technology Long Term Plan 2024-2025.pdf
+Design & Technology Progression of Skills EYFS to Y6 2024-2025.pdf
+window.pages = {"data":[{"id":"25620","title":"English","current":0,"link":"\/page\/english\/25620","link_target":"_self"},{"id":"25621","title":"Science","current":0,"link":"\/page\/science\/25621","link_target":"_self"},{"id":"19339","title":"Mathematics","current":0,"link":"\/page\/mathematics\/19339","link_target":"_self"},{"id":"25625","title":"Computing","current":0,"link":"\/page\/computing\/25625","link_target":"_self"},{"id":"39806","title":"Design & Technology","current":1,"link":"\/page\/design-technology\/39806","link_target":"_self"},{"id":"39808","title":"Geography","current":0,"link":"\/page\/geography\/39808","link_target":"_self"},{"id":"39809","title":"History","current":0,"link":"\/page\/history\/39809","link_target":"_self"},{"id":"39810","title":"Modern Foreign Languages","current":0,"link":"\/page\/modern-foreign-languages\/39810","link_target":"_self"},{"id":"25626","title":"Physical Education","current":0,"link":"\/page\/physical-education\/25626","link_target":"_self"},{"id":"39811","title":"Music","current":0,"link":"\/page\/music\/39811","link_target":"_self"},{"id":"39812","title":"PSHE and RSE","current":0,"link":"\/page\/pshe-and-rse\/39812","link_target":"_self"},{"id":"25627","title":"Religious Education","current":0,"link":"\/page\/religious-education\/25627","link_target":"_self"},{"id":"39805","title":"Art and Design","current":0,"link":"\/page\/art-and-design\/39805","link_target":"_self"},{"id":"141257","title":"Forest School","current":0,"link":"\/page\/forest-school\/141257","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

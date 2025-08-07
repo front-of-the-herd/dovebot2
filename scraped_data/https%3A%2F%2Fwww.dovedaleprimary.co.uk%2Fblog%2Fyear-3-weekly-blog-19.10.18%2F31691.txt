@@ -1,0 +1,119 @@
+Dovedale Primary School: Year 3 Weekly Blog 19.10.18
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Year 3 Weekly Blog 19.10.18
+Date:
+19th Oct 2018 @ 8:22am
+Black History Week
+This week, we have been looking at the story of Rosa Parks and how her actions changed the world. We have linked this into our English by writing a diary entry from the perspective of Rosa Parks of when she refused to move seats on a bus in America.
+Worth a Watch
+Dr Who on Sunday 21st October at 18:55 on BBC One will be encountering Rosa Parks. They begin to wonder whether someone is attempting to change history.
+What’s coming up next term?
+English – Stories with familiar settings
+Maths – Continuing addition and subtraction and then moving onto multiplication and division
+Science – Forces and Magnets
+Geography – Can the Earth shake rattle and roll?
+Art – Stone Age cave paintings
+D.T - Textiles (felt decorations)
+PSHE – Getting on and falling out
+R.E – Christianity and Christmas
+French – Jeux et chansons (Games and song)
+Well done to our stars of the week this week. Pictures of those children are on our Twitter feed.
+Have a great half term!
+Follow us on Twitter for daily updates! @DovedaleY3
+Year 3 Team
+window.classes = {"data":[{"id":"2183","title":"Reception","current":0,"link":"\/class\/reception"},{"id":"3360","title":"Year 1","current":0,"link":"\/class\/year-1"},{"id":"3362","title":"Year 2","current":0,"link":"\/class\/year-2"},{"id":"2191","title":"Year 3","current":1,"link":"\/class\/year-3"},{"id":"2177","title":"Year 4","current":0,"link":"\/class\/year-4"},{"id":"2195","title":"Year 5","current":0,"link":"\/class\/year-5"},{"id":"2197","title":"Year 6","current":0,"link":"\/class\/year-6"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

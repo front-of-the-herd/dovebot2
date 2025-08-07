@@ -1,0 +1,155 @@
+Dovedale Primary School: Attendance
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Attendance
+Education is too good to miss!
+All pupils are expected to reach attendance levels of 97% and above to be able to access and achieve their full potential at school.
+As a school we take a zero tolerance approach to poor attendance and punctuality.
+We expect children to be in school everyday unless they are too ill to come in.
+Our school does not authorise holidays during term time.
+Pupils only attend school for 190 days per academic year (this means that the other 175 days they are at home with you!)
+Persistent absence from school will be investigated by Education Welfare Service and fines could be implemented for each child to each parent.
+The percentages below will help you understand our expected attendance levels:
+97% and above: Excellent Attendance
+95% - 97%: Good Attendance
+90% - 95%: Be Aware - Your child's attendance is being closely monitored.
+80% - 90%: Worrying - less chance of success. Your child's attendance is being closely monitored daily.
+Less than 80%: Serious Concerns - Referred to the Education Welfare Service.
+Why do I go to School?
+Here's what Pupils say:
+To learn more about everything
+To find out about the world
+To have fun making and doing things
+To be happy with friends
+To share what we can do
+To work together with everyone
+To get a good job
+What are the rules about attendance and punctuality?
+Basically, Parents and carers have to make sure those children aged 5 to 16 years receive full-time education and that these children attend school regularly. It's the law!
+Parents can be taken to court for breaking this law (section 199 of the Education Act 1993)
+The policy for the Government Department of Education (May 1994) also says: "Parents / Carers should ensure that their children arrive at school on time, properly attired and in a condition to learn."
+The Act also mentions that: "Parents / Carers need to see themselves as partners with schools in the education of their children. This includes making sure that pupils complete homework on time and that their children keep to school rules on behaviour."
+What about absence?
+It is important to get the message to school. If a child is off and we have not received a phone call explaining the absence, then we will make a phone call to you asking for the reason of the absence.
+It is the duty of a parent / carer to contact the school on the first day of the absence to explain why their child is not in school.
+An absence for an unacceptable or unexplained reason will not be authorised and will appear on your child's attendance record as an un-authorised absence.
+What about punctuality?
+'Every Minute Counts'
+The school day starts at 9am but we open our doors to the children at 8.40am so the children can be ready and settled for the register. Each class then goes straight into the teaching and learning. If you bring your child in at 9.30am they will have missed the start to the lesson, or extra time being given by the teacher to help progress your child. If you bring your child in at 10am, they have already missed 1 hour of teaching and learning - this could accumulate to 5 hours of education missed every week!
+Punctuality as well as attendance will be closely monitored and we will ask for a reason for the late attendance.
+Why does coming into school every day matter?
+If you don't come into school regularly:
+You might feel a bit left out
+You may not know how to do the work
+You may get left behind
+You may have to make friends again
+Coming into school every day is important because it helps:
+To get the best out of education offered in our school
+To make and keep good friendships
+If you miss school, you miss lessons which may not be repeated. Being absent from school makes it hard to catch up with missed work and effects how well children do.
+This means:
+Half day absent = 3 morning or afternoon lessons missed
+1 day absent = 5 lessons missed
+3 days absent = 15 lessons missed
+2 weeks absent = 50 lessons missed
+Together we can help your child to feel happy and be successful. Your child deserves a good education and all the opportunities that education can give them in life.
+Files to Download
+Good Attendance means.....
+Good Attendance means......
+Leave of Absence form
+PN Letter to schools- parents.pdf
+window.pages = {"data":[{"id":"14938","title":"Applying for a place at Dovedale Primary School","current":0,"link":"\/page\/applying-for-a-place-at-dovedale-primary-school\/14938","link_target":"_self"},{"id":"14933","title":"School Meal Menus","current":0,"link":"\/page\/school-meal-menus\/14933","link_target":"_self"},{"id":"14944","title":"Out of Hours Kids Club","current":0,"link":"\/page\/out-of-hours-kids-club\/14944","link_target":"_self"},{"id":"20206","title":"Dovedale Children's Centre","current":0,"link":"\/page\/dovedale-childrens-centre\/20206","link_target":"_self"},{"id":"15009","title":"Governors","current":0,"link":"\/page\/governors\/15009","link_target":"_self"},{"id":"23682","title":"Attainment and Standards","current":0,"link":"\/page\/attainment-and-standards\/23682","link_target":"_self"},{"id":"14936","title":"School Policies","current":0,"link":"\/page\/school-policies\/14936","link_target":"_self"},{"id":"26247","title":"Pupil Premium","current":0,"link":"\/page\/pupil-premium\/26247","link_target":"_self"},{"id":"32974","title":"Ofsted reports","current":0,"link":"\/page\/ofsted-reports\/32974","link_target":"_self"},{"id":"38045","title":"P.E and Sport Premium","current":0,"link":"\/page\/pe-and-sport-premium\/38045","link_target":"_self"},{"id":"14946","title":"Staff","current":0,"link":"\/page\/staff\/14946","link_target":"_self"},{"id":"17096","title":"Attendance","current":1,"link":"\/page\/attendance\/17096","link_target":"_self"},{"id":"14997","title":"Term Dates","current":0,"link":"\/page\/term-dates\/14997","link_target":"_self"},{"id":"28104","title":"Uniform","current":0,"link":"\/page\/uniform\/28104","link_target":"_self"},{"id":"104794","title":"Medical","current":0,"link":"\/page\/medical\/104794","link_target":"_self"},{"id":"18137","title":"Dovedale PTA","current":0,"link":"\/page\/dovedale-pta\/18137","link_target":"_self"},{"id":"143343","title":"Letters and school information","current":0,"link":"\/page\/letters-and-school-information\/143343","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

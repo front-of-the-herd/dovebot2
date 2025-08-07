@@ -1,0 +1,112 @@
+Dovedale Primary School: Computing
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Computing
+Intent
+At Dovedale safeguarding is our primary concern and to ensure all our children are able to use the internet safely, we teach a planned Online Safety curriculum as well as responding to situations as they arrive. All pupils, including those with SEND and vulnerable children, are taught the Online Safety curriculum and the computing curriculum.  All our children have access to a computing curriculum in order for them to understand and participate in a world that is ever increasingly influenced by technology. We believe the knowledge, skills and understanding taught through our curriculum will empower our learners to think computationally, and become more able to conceptualise, understand and use computer-based technology, and so are better prepared for today’s world and future.
+Implementation
+Computing lessons ensure that the children gain a more secure understanding of the knowledge and skills within our curriculum and the sequence of progression of lessons has been carefully considered to ensure knowledge and skills are built at each stage. However, when appropriate, computing may be used as a vehicle for the children to present their learning in other subjects. For example, the children might create an animation about a process they have learnt of in a science lesson. Computing lessons cover all three strands of the National Curriculum; Digital Literacy, Information Technology and Computer Science and Online Safety is taught throughout the year as appropriate. Children use SeeSaw as an online portfolio to showcase their work in Computing and Online safety.
+Internet safety is a priority at Dovedale. The children are introduced to a new theme each half term, they then complete activities linked to this in class. Also, our Key Stage 2 eCadets help to ensure that online safety is a high profile, and our children are well informed on current online safety issues. We also, in KS2, follow the ‘Be Internet Legends’ scheme of work; providing children with real life scenarios and showing them how to deal with them appropriately. Staff and children have access to a range of hardware and software to support them with teaching and learning in computing including; iPads, laptops and programmable robots. To further enhance our curriculum and inspire our children we offer Computing clubs.
+Teachers are regularly updated about new software and hardware available for them to implement their lessons. Regular CPD is provided to ensure all staff have the subject knowledge and confidence to promote and teach what is a relatively new curriculum.
+Impact
+Our curriculum ensures that all our children are confident and independent users of technology and that they can accomplish a wide variety of goals both at school, and at home. Teachers quickly identify misconceptions or gaps in understanding which can then be addressed promptly with the children. Teaching can then be adapted to support varied paces of learning and ensures all pupils make good progress.  The computing curriculum is regularly monitored by the subject leader through lesson visits, discussions with pupil and teachers and evaluation of work produced by the children.
+Files to Download
+Computing curriculum overview 2024-2025.pdf
+Computing Progression of skills 2024-2025.pdf
+Computing curriculum overview online safety 2024-2025.pdf
+Computing long term plan 2024-2025.pdf
+window.pages = {"data":[{"id":"25620","title":"English","current":0,"link":"\/page\/english\/25620","link_target":"_self"},{"id":"25621","title":"Science","current":0,"link":"\/page\/science\/25621","link_target":"_self"},{"id":"19339","title":"Mathematics","current":0,"link":"\/page\/mathematics\/19339","link_target":"_self"},{"id":"25625","title":"Computing","current":1,"link":"\/page\/computing\/25625","link_target":"_self"},{"id":"39806","title":"Design & Technology","current":0,"link":"\/page\/design-technology\/39806","link_target":"_self"},{"id":"39808","title":"Geography","current":0,"link":"\/page\/geography\/39808","link_target":"_self"},{"id":"39809","title":"History","current":0,"link":"\/page\/history\/39809","link_target":"_self"},{"id":"39810","title":"Modern Foreign Languages","current":0,"link":"\/page\/modern-foreign-languages\/39810","link_target":"_self"},{"id":"25626","title":"Physical Education","current":0,"link":"\/page\/physical-education\/25626","link_target":"_self"},{"id":"39811","title":"Music","current":0,"link":"\/page\/music\/39811","link_target":"_self"},{"id":"39812","title":"PSHE and RSE","current":0,"link":"\/page\/pshe-and-rse\/39812","link_target":"_self"},{"id":"25627","title":"Religious Education","current":0,"link":"\/page\/religious-education\/25627","link_target":"_self"},{"id":"39805","title":"Art and Design","current":0,"link":"\/page\/art-and-design\/39805","link_target":"_self"},{"id":"141257","title":"Forest School","current":0,"link":"\/page\/forest-school\/141257","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

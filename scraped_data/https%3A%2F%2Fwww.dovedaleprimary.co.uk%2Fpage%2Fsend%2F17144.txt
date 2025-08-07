@@ -1,0 +1,168 @@
+Dovedale Primary School: SEND
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+SEND
+Meet the SEND (Special Educational Needs and Disabilities) Support Team
+Mrs Issy Rogers: Assistant Head Teacher for Inclusion
+Mrs Ceri Milton: SENDCo
+SEND Support
+At Dovedale Primary we know that every child should have access to an education that ensures they have the chance to succeed, whatever their individual needs and the potential barriers to their learning may be.
+We recognise the link between the health and well-being of children and young people which contributes to their attainment and achievement. In turn this enables children to thrive and achieve their full potential.
+We provide all pupils with the opportunities to achieve their personal potential.
+SEND concerns and procedures
+If you have any significant concerns, initially, please contact your child's class teacher who will arrange to meet you and discuss your child and provide advice.
+The teacher will record your concerns and inform members of the Inclusion Team.
+If your concerns persist and/or the class teacher also has concerns, they will complete a Concerns Form and arrange to meet with you and a member of the Inclusion Team. They may discuss support strategies, signpost to outside agencies and possible interventions to be put in place.
+If your child is added to the school SEND register, you will be consulted and have the opportunity to meet with Mrs Milton or Mrs Rogers at the twice yearly Parents' Evenings.
+Mrs Issy Rogers co-ordinates all the work with children on the SEND register.
+Life skills support
+This section provides links to occupational therapy resources that support the development of key life skills, including tying shoelaces and using cutlery. These resources offer practical techniques and step-by-step guidance to help children improve their fine motor skills and independence in everyday tasks. They are designed for parents and caregivers to use with their children at home.
+Liverpool City Council Occupational Therapy Website:
+https://fsd.liverpool.gov.uk/
+kb5/liverpool/fsd/service.
+page?id=wcz_pXKyJCY
+Tying Laces
+https://search3.openobjects.
+com/mediamanager/liverpool/
+fsd/files/developing_lacing_
+skills.pdf
+Using Cutlery
+https://search3.openobjects.
+com/mediamanager/liverpool/
+fsd/files/cutlery_skills.pdf
+Dressing skills for younger children
+https://search3.openobjects.
+com/mediamanager/liverpool/
+fsd/files/developing_dressing_
+skills_early_years_sept_2019.
+pdf
+Attention, Concentration and Organisation skills
+https://search3.openobjects.
+com/mediamanager/liverpool/
+fsd/files/attention_
+concentration_and_
+organisational_skills.pdf
+Toileting Skills
+https://search3.openobjects.
+com/mediamanager/liverpool/
+fsd/files/developing_bottom_
+wiping_skills.pdf
+Pre-writing skills
+https://search3.openobjects.
+com/mediamanager/liverpool/
+fsd/files/developing_pre_
+writing_skills.pdf
+Handwriting fatigue and pain
+https://search3.openobjects.
+com/mediamanager/liverpool/
+fsd/files/handwriting_fatigue_
+and_pain.pdf
+What is ADHD?
+See Dyslexia Differently
+ASD - Amazing Things Happen
+Speech and Language resources for parents
+Let's ta
+lk about ADHD
+Vocabulary learning aid for parents
+Files to Download
+PIVATS a parents guide
+LivPac information on support groups in liverpool
+Max card flyer
+Services for families of children with ASD
+SEND policy November 2024.pdf
+SEND report 23-24.pdf
+window.pages = {"data":[]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

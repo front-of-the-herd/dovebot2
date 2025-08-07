@@ -1,0 +1,105 @@
+Dovedale Primary School: Health and well being week
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Health and well being week
+Date:
+27th Jun 2016 @ 1:09pm
+Health and Well being Week - 2DM
+MONDAY - We are having a brilliant time already during Health and well being week! Today we had a relaxing Mindfulness and Massage session with the lovely Andrea, and then we made delicious healthy fruit pancakes with the marvellous Mrs Keogh! We also learned about the importance of washing our hands properly. In the afternoon we had a Street Dance session with Jill, which was fantastic - we all learned some wonderful dance moves!
+TUESDAY - This morning we have been learning all about how to stay safe in the sun. We have learned from SunSafe Superhero George that we should SLIP on a t-shirt to cover our shoulders, SLOP on factor 50 suncream on any uncovered skin, SLAP on a sunhat, and SLIDE on a pair on sunglasses to protect our eyes. We should also find SHADE to play in when the sun is at it's strongest between 11am and 3pm! The children have worked hard to create a Sunsafe chatterbox to bring home, and in pairs have dressed George and his friend Alice ready for playing in the park on a sunny day! What a great morning!
+This afternoon we had a Happy thoughts session with Miss Gallagher, who gave us some positivity cards that we passed to our friends to describe them. We then made our own happy thought cards, which are going to be displayed around school.
+WEDNESDAY - This morning we took part in a yoga session in the classroom. We learned lots of postures that made us feel stretched and relaxed, and have enjoyed learning about how to breathe to relax.We also finished our work on Sun Safety.
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

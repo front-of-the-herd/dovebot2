@@ -1,0 +1,136 @@
+Dovedale Primary School: Reading
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Reading
+At Dovedale Primary School, we are passionate about developing an interest in reading. We aim to develop enthusiastic and confident readers (including those with SEND and vulnerable children) who can understand a wide range of texts - we want our children to read history texts like historians and science texts like scientists. We invest in wider reading opportunities and subject-specific texts to ensure we give the best opportunity for children to reach their full reading potential.
+From Reception through to year 6, children will follow a range of reading programmes, including Read Write Inc, Oxford Reading Tree, Whole Class reading, One to One Reading, Lightning Squad Reading Tuition, Fresh Start and after-school reading tuition sessions.
+Children will be taught to:
+Read aloud fluently and with expression
+Read for meaning
+Develop the skills required for the critical reading of texts
+Read a wide range of fiction, poetry, and non-fiction texts
+Use a range of strategies for reading including:
+Phonic (sounding the letters and blending them together.
+Visual (whole word recognition and analogy with known words)
+Contextual (use of background knowledge and connection)
+Grammatical (know which words make sense)
+Home Reading Books and Diaries
+In Key Stage One, children will be sent home with a book to match their phonic ability each week and should bring it into school every day.  Children will read with an adult at least once a week as part of their Read Write Inc. sessions in school, and this will be noted in their reading diary.  At home, we ask that parents read with their child or listen to them read daily and comment in the reading diaries about their child’s progress. We would encourage any further reading, including a book that children have chosen from school, local shop or library, a book on an online platform such as Oxford Owl, a comic or newspaper, or a book the child has at home.
+A Reception Reading Record
+A Year 6 Reading Record
+In Key Stage Two, children will continue to read with an adult in school at least once every two weeks – more than this if we feel there is a need. As part of the children’s homework, we ask that parents listen to their child three times per week and leave a comment in the diary. When listened to in school, adults will aim to ask three questions:
+A vocabulary question (What does __ mean? Which word is closest to in meaning to__?)
+A retrieval question (When did ____ happen? Why did she go to ____?)
+An inference – hidden meaning - question (How do you know? What clues tell us?)
+Children by year 6 are still expected to read as part of their homework, and can independently fill in their reading records for their class teacher to check weekly.
+Useful Websites and Documents for Parents/Carers and Children
+A list of books from our new PSHE library to support SMSC and pastoral development
+Book Trust Website – Fantastic interactive story books to watch and read at home.
+7 Top Tip
+s For Supporting Reading At Home
+Reading with your child booklet 3-4 years
+Reading with your child booklet 4-6 years
+Files to Download
+Reading overview 2024-25.pdf
+Reception checklist.pdf
+Year 1 checklist.pdf
+Year 2 checklist.pdf
+Year 6 checklist.pdf
+Year 5 checklist.pdf
+Year 4 checklist.pdf
+Year 3 checklist.pdf
+window.pages = {"data":[{"id":"25614","title":"Reading","current":1,"link":"\/page\/reading\/25614","link_target":"_self"},{"id":"35702","title":"Phonics","current":0,"link":"\/page\/phonics\/35702","link_target":"_self"},{"id":"118081","title":"Spelling","current":0,"link":"\/page\/spelling\/118081","link_target":"_self"},{"id":"140427","title":"Writing","current":0,"link":"\/page\/writing\/140427","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

@@ -1,0 +1,104 @@
+Dovedale Primary School: Year Two Weekly Blog 5th October
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Year Two Weekly Blog 5th October
+Date:
+5th Oct 2018 @ 4:10pm
+It's been another excellent week in Year Two.
+The children have become authors of their own stories featuring their favourite cuddly toys. They had some brilliant ideas and have written some fantastic stories using conjunctions to join their sentences and expanded noun phrases to add detail. Our topic in maths has been addition and subtraction and the children have used practical equipment, models and images to represent fact families. They have also been using their addition and subtraction skills to solve problems. In science the children carried out group investigations to find out which material would be most durable and hard wearing to make a pair of children's dungarees. They tested different fabrics by rubbing them on the ground and counting how many rubs it took until the fabric frayed or ripped. The result was........denim is the most suitable. In history, the children worked in groups to hunt for a series of envelopes which contained historical clues. The envelopes contained artefacts such as newspaper cuttings, photographs, letters, ration books and air-raid precautions. The children soon realised that all the artefacts were linked to World War Two and they then came up with some fantastic questions that we will research in subsequent lessons.
+Next week we will read the story Amazing Grace by Mary Hoffman. We will use the illustrations to help us make predictions and make inferences and we will use the story to learn about present and past tense verbs. In maths we will be comparing number sentences and calculating missing numbers in addition and subtraction statements. We will use the iPads in history to research aspects of World War Two and we will continue our artwork based on the work of Sandra Hepworth and use different media to practise sketching.
+window.classes = {"data":[{"id":"2183","title":"Reception","current":0,"link":"\/class\/reception"},{"id":"3360","title":"Year 1","current":0,"link":"\/class\/year-1"},{"id":"3362","title":"Year 2","current":1,"link":"\/class\/year-2"},{"id":"2191","title":"Year 3","current":0,"link":"\/class\/year-3"},{"id":"2177","title":"Year 4","current":0,"link":"\/class\/year-4"},{"id":"2195","title":"Year 5","current":0,"link":"\/class\/year-5"},{"id":"2197","title":"Year 6","current":0,"link":"\/class\/year-6"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

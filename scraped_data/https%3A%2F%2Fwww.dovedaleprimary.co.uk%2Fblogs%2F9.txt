@@ -1,0 +1,166 @@
+Dovedale Primary School: Our blogs
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Our blogs
+Page
+1
+2
+...
+8
+9
+10
+...
+18
+19
+Our trip to Calderstones
+, by  Year 5 team - Mrs Bagley, Mr McLaren, Miss Turner
+SATS breakfast club
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+4TH learning to play Ed Sheeran
+, by  Year 4 team - Miss Middleton, Mrs Thomas, Mrs Harrison, Miss McAllister
+4TH using Scratch to create animations
+, by  Year 4 team - Miss Middleton, Mrs Thomas, Mrs Harrison, Miss McAllister
+4TH loved making a spooky forest using Scratch Jr on the iPads
+, by  Year 4 team - Miss Middleton, Mrs Thomas, Mrs Harrison, Miss McAllister
+4TH Christmas mannequin challenge
+, by  Year 4 team - Miss Middleton, Mrs Thomas, Mrs Harrison, Miss McAllister
+Little Charlie story - with actions!
+, by  Year 3 - Mrs Doherty, Miss Murphy, Ms Gudgeon, Mrs Dunne, Mrs Gosney
+4TH playing 'Love yourself'.
+, by  Year 4 team - Miss Middleton, Mrs Thomas, Mrs Harrison, Miss McAllister
+Summer and Sofia playing 'Love yourself'.
+, by  Year 4 team - Miss Middleton, Mrs Thomas, Mrs Harrison, Miss McAllister
+Isaac playing Happy birthday to Reggie
+, by  Year 4 team - Miss Middleton, Mrs Thomas, Mrs Harrison, Miss McAllister
+Tim Quinn arrives in 4TH
+, by  Year 4 team - Miss Middleton, Mrs Thomas, Mrs Harrison, Miss McAllister
+Anti bullying week - use your Power for Good!
+, by  Year 3 - Mrs Doherty, Miss Murphy, Ms Gudgeon, Mrs Dunne, Mrs Gosney
+3DG Maths and English fun!
+, by  Year 3 - Mrs Doherty, Miss Murphy, Ms Gudgeon, Mrs Dunne, Mrs Gosney
+3DG stars of the week
+, by  Year 3 - Mrs Doherty, Miss Murphy, Ms Gudgeon, Mrs Dunne, Mrs Gosney
+Performance poetry
+, by  Year 3 - Mrs Doherty, Miss Murphy, Ms Gudgeon, Mrs Dunne, Mrs Gosney
+Halloween Maths
+, by  Year 3 - Mrs Doherty, Miss Murphy, Ms Gudgeon, Mrs Dunne, Mrs Gosney
+Fantastic Fossils!
+, by  Year 3 - Mrs Doherty, Miss Murphy, Ms Gudgeon, Mrs Dunne, Mrs Gosney
+4TH love learning to play the guitar!
+, by  Year 4 team - Miss Middleton, Mrs Thomas, Mrs Harrison, Miss McAllister
+4TH Solving puzzles
+, by  Year 4 team - Miss Middleton, Mrs Thomas, Mrs Harrison, Miss McAllister
+Writing Instructions
+, by  Year 5 team - Mrs Bagley, Mr McLaren, Mrs Wilson, Miss Turner
+Year 3 are now on Twitter!
+, by  Year 3 - Mrs Doherty, Miss Murphy, Ms Gudgeon, Mrs Dunne, Mrs Gosney
+6P-Was Ruby Bridges a hero?
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+6P-Hotseating Ruby Bridges and Mrs Henry
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+3DG networking and talk for writing
+, by  Year 3 - Mrs Doherty, Miss Murphy, Ms Gudgeon, Mrs Dunne, Mrs Gosney
+3D shapes
+, by  Year 5 team - Mrs Bagley, Mr McLaren, Mrs Wilson, Miss Turner
+Page
+1
+2
+...
+8
+9
+10
+...
+18
+19
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

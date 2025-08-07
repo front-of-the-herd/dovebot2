@@ -1,0 +1,104 @@
+Dovedale Primary School: Year Two Weekly Blog, 1st March
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Year Two Weekly Blog, 1st March
+Date:
+1st Mar 2019 @ 6:49pm
+We've had an extremely exciting week in year two which began on Monday when mysterious footprints appeared down our corridor. The footprints lead into each of our classrooms where we found a large nest filled with strange looking eggs. We predicted that the eggs would be dragon's eggs and later on in the week our predictions were confirmed when our eggs hatched. Naughty baby dragons have been causing mischief in our classrooms ever since. These dragons are here to help us with our English text, The Dragon Machine, and have lead to some absolutely fantastic pieces of writing from the children. I wonder what the troublesome dragons will get up to next week!
+In maths this week we have started a unit of work on fractions. Children have been learning to recognise, name and calculate halves, quarters and thirds of shapes, objects and amounts. We have begun a new science topic about living things and their habitats and have searched in our outdoor area for things that are living, things that were once alive and things that have never lived. We have practiced manipulating and shaping different malleable materials in art in preparation for making our African clay pots later in the term. All classes were also treated to an hour long workshop of African song, drumming and dance which the children thoroughly enjoyed.
+Next week we will continue with our English text which will provide plenty more exciting writing opportunities for the children. We will explore equivalent fractions in maths and of course be celebrating World Book Day on Thursday. We can't wait to see all the children in their fabulous costumes!
+window.classes = {"data":[{"id":"2183","title":"Reception","current":0,"link":"\/class\/reception"},{"id":"3360","title":"Year 1","current":0,"link":"\/class\/year-1"},{"id":"3362","title":"Year 2","current":1,"link":"\/class\/year-2"},{"id":"2191","title":"Year 3","current":0,"link":"\/class\/year-3"},{"id":"2177","title":"Year 4","current":0,"link":"\/class\/year-4"},{"id":"2195","title":"Year 5","current":0,"link":"\/class\/year-5"},{"id":"2197","title":"Year 6","current":0,"link":"\/class\/year-6"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

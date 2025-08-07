@@ -1,0 +1,115 @@
+Dovedale Primary School: Prefects
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Prefects
+In Year 6, children will have the opportunity to become school prefects.
+School prefects have important jobs to do in order to ensure smooth day-to-day running and organisation of the school day.  Prefects' jobs include: representing our school on open mornings, setting up for sports
+activities and events, or monitoring equipment and hallways at playtime - but they are mainly chosen to model the behaviour and attitude of a Dovedale learner to all other children.
+Children who wish to be a 'prefect' will be chosen for having a positive and responsible attitude.  It will involve carrying out jobs in their own time which shows a huge commitment to the school.  Badges are given out in an assembly and our children wear them with pride.
+Meet Our Dovedale Primary Prefects for 2024-25
+These Year 6 prefects have been specifically chosen for demonstrating the following outstanding qualities:
+An excellent attitude towards their work
+Exemplary behaviour around the school
+Consideration towards the whole school community
+Striving to push themselves forwards in all they do
+Prefect Work
+Prefects are expected to give their time to help the day to day running, organisation and celebrating their school. We held an open morning for prospective children and parents thinking
+of joining our school. Our prefects did an incredible job as tour guides. Parents were bowled over by their passion for our school and knowledge of our curriculum. Teachers had very little to do; parents were in safe hands with the year 6s.
+Here's two superstars describing Forest School.
+Our Prefects are well prepared and organised when it comes to events such as food bank donations. They took charge of organising the donations for Food Bank.
+What would we do without our wonderful prefects? They were a wonderful help at the MacMillan coffee morning. They helped organise the many cakes that were made and donated by parents - and helped us to sell and raise over £800!
+window.pages = {"data":[{"id":"128138","title":"Prefects","current":1,"link":"\/page\/prefects\/128138","link_target":"_self"},{"id":"15012","title":"School Council","current":0,"link":"\/page\/school-council\/15012","link_target":"_self"},{"id":"129656","title":"Rocket Resilience Champions","current":0,"link":"\/page\/rocket-resilience-champions\/129656","link_target":"_self"},{"id":"20505","title":"Newspaper Club","current":0,"link":"\/page\/newspaper-club\/20505","link_target":"_self"},{"id":"128139","title":"Wellbeing Ambassadors","current":0,"link":"\/page\/wellbeing-ambassadors\/128139","link_target":"_self"},{"id":"20518","title":"Eco Warriors","current":0,"link":"\/page\/eco-warriors\/20518","link_target":"_self"},{"id":"15024","title":"Reading Ambassadors","current":0,"link":"\/page\/reading-ambassadors\/15024","link_target":"_self"},{"id":"129660","title":"Sports Ambassadors","current":0,"link":"\/page\/sports-ambassadors\/129660","link_target":"_self"},{"id":"131891","title":"eCadets","current":0,"link":"\/page\/ecadets\/131891","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

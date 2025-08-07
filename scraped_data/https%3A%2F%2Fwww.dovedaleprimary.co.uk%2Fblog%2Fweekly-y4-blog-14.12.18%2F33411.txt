@@ -1,0 +1,110 @@
+Dovedale Primary School: Weekly Y4 blog 14.12.18
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Weekly Y4 blog 14.12.18
+Date:
+14th Dec 2018 @ 3:41pm
+A lovely week in Year 4!
+We have had a few assessments this week and the children have all worked extremely hard. Well done Year 4! Mathletics homework has been set and there are quite a few activities on there to keep the children going until January! We have been practising our times tables every single day and have been working on our rapid recall, especially with the 7 x tables.
+In Science, we have continued to study living things. The children have been identifying and classifying different types of vertebrates and grouping them accordingly. We have also been finding out similarities and differences between the different groups.
+It has been D.T week this week and the children have been working on making a product that uses a wheel mechanism. We won’t give too much away as the children will be bringing them home next week!
+J
+It has been a lovely week and the children have all shown so much creativity and enthusiasm in our afternoon lessons.
+It is Christmas dinner day next Wednesday! The children can also wear their Christmas jumper. :-)
+Have a lovely weekend and see you all on Monday for our final week of the Autumn term! Time flies when you're having fun!
+YEAR 4 TEAM.
+window.classes = {"data":[{"id":"2183","title":"Reception","current":0,"link":"\/class\/reception"},{"id":"3360","title":"Year 1","current":0,"link":"\/class\/year-1"},{"id":"3362","title":"Year 2","current":0,"link":"\/class\/year-2"},{"id":"2191","title":"Year 3","current":0,"link":"\/class\/year-3"},{"id":"2177","title":"Year 4","current":1,"link":"\/class\/year-4"},{"id":"2195","title":"Year 5","current":0,"link":"\/class\/year-5"},{"id":"2197","title":"Year 6","current":0,"link":"\/class\/year-6"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

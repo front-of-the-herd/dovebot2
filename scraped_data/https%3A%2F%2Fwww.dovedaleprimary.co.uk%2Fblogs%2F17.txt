@@ -1,0 +1,162 @@
+Dovedale Primary School: Our blogs
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Our blogs
+Page
+1
+2
+.........
+16
+17
+18
+19
+Science - Investigating reflections using mirrors
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Play your part, share a heart!
+, by  Year 4 team - Mrs Gudgeon, Miss Middleton, Miss Turner, Miss Davis
+Safer Internet Day 2016
+, by  Year 4 team - Mrs Gudgeon, Miss Middleton, Miss Turner, Miss Davis
+#shareaheart
+, by  Year 1 team -Miss Graham, Mrs Newby, Miss Hetherington, Mrs Ashe
+Maths through Football!
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Maths through football!
+, by  Year 4 team - Mrs Gudgeon, Miss Middleton, Miss Turner, Miss Davis
+History: Making an artistic mural based on the Mayan Folk Tale 'Rain Player'
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Science: Exploring shadows. What happens to a shadow when you increase or decrease the distance of the light source?
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Stay and Play January 2016
+, by Mrs Reception team - Mrs Dwan, Mrs Mitchell, Mrs Milton, Mr Jones
+SPAG: Making our own homophone game
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+How does light help us see?
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Science investigation: Do we need light to be able to see things?
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+ECO ACTION PLAN FOR THE YEAR
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+English focus: Way Home by Libby Hathorn
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+English Debate 'Way Home'. Was Shane right to leave home?
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Science Investigation - Does light travel in straight lines?
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Writing our own SATS Questions - Reading Comprehension
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Setting rules and modelling of SPAG games
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Christmas Classroom Fun
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Christmas Carol Drama
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Christmas Carol Comic Strip
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Art - Victorian Street Scene
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Art - North Pole Scene
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Art - A Winter Scene
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+A Way Home - Word art for key vocabulary and Missing posters for Shane
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Page
+1
+2
+.........
+16
+17
+18
+19
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

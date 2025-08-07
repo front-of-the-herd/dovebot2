@@ -1,0 +1,126 @@
+Dovedale Primary School: Religious Education
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Religious Education
+Intent
+At Dovedale Primary, we believe that it is important for all our pupils, including year 6, those with SEND and vulnerable children, to learn from and about religion, so that they can better form an understanding of the world around them. The aim of Religious Education in our school is to help children to acquire and develop knowledge and understanding of Christianity and the other principal religions represented in Great Britain. We want them to appreciate the way that religious beliefs shape life and behaviour in our community and the wider world. We want them to develop the ability to make reasoned and informed judgements about religious and moral issues and enhance their spiritual, moral, social and cultural development, so that they are better prepared for the next stage of their learning journey.
+It is important that Religious Education is taught throughout the school in such a way that it reflects the rich diversity in religious and cultural backgrounds of our children and their families. At the heart of our curriculum, is the intention of one of our principle aims: experience. We employ the use of religious visitors and have children encounter, first hand, the customs and practises of different places of worship regularly.
+RE plays an important role, along with all other curriculum areas, particularly RSHE, in promoting social awareness and understanding in our children. We encourage our pupils to ask questions about the world and to reflect on their own beliefs, values and experiences. We encourage Dovedale children to form their own reasoned opinions. We say ‘Having an opinion is good. Having a reason is good RE’. We include and promote British values, ensuring that children are aware of their rights and responsibilities as UK citizens.
+Our carefully adapted curriculum is designed to encourage creativity, imagination, enquiry, debate, discussion and independence. It builds on prior learning and is sequenced so that pupils know and can do what is needed to reach those end points.
+Implementation
+We use the Liverpool SACRE Agreed Syllabus for Religious Education.
+In the Early Years Foundation Stage RE is mainly taught by introducing children to main religions through their own experiences of the word: who is special, which places are special, which stories are special and what is special about our world.
+The following religions have been selected for study:
+Christianity – to be taught in all year groups
+Islam – EYFS, KS1 and KS2
+Judaism – EYFS, KS1 and KS2
+Hinduism – light touch EYFS and KS1, then in greater depth in KS2
+Humanism is also studied in KS2, as another World View.
+We value the religious background of all members of the school community and actively encourage individuals to share their own experiences with others freely. All religions and their communities are treated with respect and sensitivity and we value the links, which are made between home, school, and the faith community.  We are extremely lucky to have members of various faiths visiting our school to share their beliefs with us, as well as being able to visit local places of worship.
+We acknowledge that each religion studied can contribute to the education of all our pupils. We promote teaching in Religious Education that stresses open enquiry and first-hand experiences wherever possible for both staff and children.
+Impact
+The children at Dovedale Primary enjoy learning about other religions, enjoy deep diving in to the big questions about life, death and everything in between, and enjoy discovering why people choose, or choose not to follow a religion. RE is an opportunity for children to develop their own personal beliefs and make reference to them. Through their R.E. learning, the children are able to make links between their own lives and those of others in their community – through planned experiences - and in the wider world, developing an understanding of other people’s cultures and ways of life.
+RE is for
+all
+pupils and every pupil is legally entitled to Religious Education as part of a ‘broad and balanced’ curriculum. In the UK, parents have the right to withdraw their children from RE on the grounds that they wish to provide their own RE. This RE provision will be the parents’ responsibility.
+A Recommended Reading List to Support the teaching of RE at Dovedale
+Files to Download
+Collective Worship at Dovedale.docx
+Religious Education Long term plan 2023-2024.pdf
+Religious Education Skills Progression 2023-2024.pdf
+Religious Education Curriculum overview 2023-2024.pdf
+window.pages = {"data":[{"id":"25620","title":"English","current":0,"link":"\/page\/english\/25620","link_target":"_self"},{"id":"25621","title":"Science","current":0,"link":"\/page\/science\/25621","link_target":"_self"},{"id":"19339","title":"Mathematics","current":0,"link":"\/page\/mathematics\/19339","link_target":"_self"},{"id":"25625","title":"Computing","current":0,"link":"\/page\/computing\/25625","link_target":"_self"},{"id":"39806","title":"Design & Technology","current":0,"link":"\/page\/design-technology\/39806","link_target":"_self"},{"id":"39808","title":"Geography","current":0,"link":"\/page\/geography\/39808","link_target":"_self"},{"id":"39809","title":"History","current":0,"link":"\/page\/history\/39809","link_target":"_self"},{"id":"39810","title":"Modern Foreign Languages","current":0,"link":"\/page\/modern-foreign-languages\/39810","link_target":"_self"},{"id":"25626","title":"Physical Education","current":0,"link":"\/page\/physical-education\/25626","link_target":"_self"},{"id":"39811","title":"Music","current":0,"link":"\/page\/music\/39811","link_target":"_self"},{"id":"39812","title":"PSHE and RSE","current":0,"link":"\/page\/pshe-and-rse\/39812","link_target":"_self"},{"id":"25627","title":"Religious Education","current":1,"link":"\/page\/religious-education\/25627","link_target":"_self"},{"id":"39805","title":"Art and Design","current":0,"link":"\/page\/art-and-design\/39805","link_target":"_self"},{"id":"141257","title":"Forest School","current":0,"link":"\/page\/forest-school\/141257","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

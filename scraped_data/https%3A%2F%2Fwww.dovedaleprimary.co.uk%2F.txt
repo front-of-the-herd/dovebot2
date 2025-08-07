@@ -1,0 +1,124 @@
+Dovedale Primary School: Welcome to our school!
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+'Imagine, Believe, Achieve'
+Welcome to our school!
+It is with great pleasure that I welcome you to Dovedale Primary School.  Our school has an excellent reputation in Liverpool and is highly respected within the local community. We have incredibly happy children, dedicated staff who provide a creative curriculum which is exciting and fun that is enriched through first hand experiences. We are very well supported by our parents, governors, PTA and other members of the local community.
+We had an Ofsted inspection in March 2024 and are thrilled with the report, it can be found under the 'key information' tab.
+In January 2024 we were very proud to be awarded The Rainbow Flag Award. It is a national quality assurance framework for all schools and youth-centred organisations. The award focuses on positive LGBT+, inclusion and visibility.
+I hope that you enjoy looking at our website and find it both interesting and informative.
+I look forward to welcoming you to our school in the future.
+Mr Nik Smith
+Head Teacher
+Contact Us
+Contact the School
+Dovedale Primary School
+Herondale Road
+Liverpool
+Merseyside
+L18 1JX
+Main Contact
+: Mrs Anne Tiebout - School Business Manager
+Tel: 0151 7334232
+Fax: 0151 7350941
+admin@dovedaleprimary.co.uk
+SEN Contact
+: Mrs Issy Rogers- AHT for Inclusion / Mrs Ceri Milton - SENDCo
+SEN Email
+:
+SEND@dovedaleprimary.co.uk
+View Our School Calendar
+Our Calendar
+var eventItems =[[{"title":"Open morning for prospective parents for Reception 2026 10am -12 noon","time":1760173200000,"link":"\/event\/open-morning-for-prospective-parents-for-reception-2026-10am-12-noon\/439115"}]];
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

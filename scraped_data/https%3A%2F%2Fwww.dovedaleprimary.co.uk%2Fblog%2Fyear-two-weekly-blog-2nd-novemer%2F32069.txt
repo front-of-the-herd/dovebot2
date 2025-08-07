@@ -1,0 +1,102 @@
+Dovedale Primary School: Year Two Weekly Blog, 2nd Novemer
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Year Two Weekly Blog, 2nd Novemer
+Date:
+2nd Nov 2018 @ 3:59pm
+What a great first week back! Thank you to all the children who helped collect such a fantastic range of Autumnal items over half term. We loved using these as inspiration to write our own Autumn poems this week. In maths we have been adding and subtracting multiples of ten to 2 digit numbers and noticing what happens to each digit. We have been learning to record our calculations using the column method. In history we began learning about Guy Fawkes and the Gunpowder Plot. We worked together to sequence the main events and found out about why we celebrate Firework Night each year on 5th November. In science we explored how materials can be changed by twisting, bending, pushing, pulling, stretching and squashing.
+Next week we will continue learning about Guy Fawkes and use non-fiction texts to find out more information about his life. We will discuss our own opinions about the Gunpowder Plot and whether we thought Guy Fawkes was right to try to kill King James. We will write a persuasive argument giving the facts and our own point of view. In maths we will continue practicing using the column method to record our addition and subtraction calculations and will begin to learn how to exchange ten ones for a ten when we don't have enough ones to subtract. As Remembrance Day is approaching the children will learn about the significance of the Poppy, why we wear them and will then work together to create a large wreath of Poppies to be displayed in school. We will also carry out an investigation to explore reversible and irreversible changes a part of our materials topic in science.
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

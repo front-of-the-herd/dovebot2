@@ -1,0 +1,113 @@
+Dovedale Primary School: Personal Development
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Personal Development
+Personal Development Statement
+The personal development of pupils at Dovedale Primary School is at the centre of our school ethos.  By nurturing our children’s personal development skills, we strive to prepare them for their adult lives, teaching them to understand how to engage with society and providing them with plentiful opportunities to do so.
+Our curriculum extends beyond the academic and supports pupils to develop in many diverse aspects of life.  We aim to provide the essential knowledge that pupils need to be educated citizens, preparing pupils for their adult lives, teaching them to understand how to engage with society.
+We offer opportunities for pupils to explore and develop their own values and beliefs, spiritual awareness, high standards of personal behaviour, a positive caring attitude towards other people, an understanding of their social and cultural traditions and an appreciation of the diversity and richness of other cultures.
+Each year group has created a curriculum which has a variety of rich experiences that build on year on year.
+Click on the links below to explore these:
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+As part of our wider opportunites, we strive to create roles and responsibilities for children to help them flourish as community members, leaders and citizens. For example, children may be ambassadors for Wellbeing, they may be sports leaders or they may be councillors. We offer wide ranges of clubs all year round, ranging from chess and computing to dance and choir. Click on the link below to see some of the ways children represent our school:
+Children
+window.pages = {"data":[{"id":"54474","title":"School of Sanctuary","current":0,"link":"\/page\/school-of-sanctuary\/54474","link_target":"_self"},{"id":"135297","title":"Personal Development","current":1,"link":"\/page\/personal-development\/135297","link_target":"_self"},{"id":"143949","title":"Rainbow Flag Award","current":0,"link":"\/page\/rainbow-flag-award\/143949","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

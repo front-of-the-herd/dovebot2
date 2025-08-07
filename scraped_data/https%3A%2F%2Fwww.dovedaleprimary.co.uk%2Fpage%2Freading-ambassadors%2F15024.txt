@@ -1,0 +1,119 @@
+Dovedale Primary School: Reading Ambassadors
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Reading Ambassadors
+We have Reading Ambassadors for Key Stage 1 and for Key Stage 2.
+Children are selected to be reading ambassadors based on their attitude towards reading and their passion for books and all things reading.
+Their responsibilities include:
+Creating reading competitions for the whole school
+Organising and rating school libraries
+Updating libraries with up-to-date texts
+Organising and designing our Reading Sheds
+Listening to younger children read
+Reading to younger children
+Reading Ambassador Work
+Reading for Pleasure
+What a fantastic idea from the reading ambassadors! To help us promote reading for pleasure, we now invite parents to take time from their busy schedule to come and read with their child in school. This simple idea is so effective, and parents and carers are always thrilled to listen to readers without having any other tasks, distractions or disturbances at the same time. There is always a lovely atmosphere in the classrooms as everyone enjoys simply, reading for pleasure. Thanks for organising, reading ambassadors!
+And here are some of our Key Stage 1 parents enjoying a 'Stay and Read'
+Ambassadors read with younger children
+Reading ambassadors have been taking time to listen to and read with younger children in the infants. Ambassadors from year 3 to year 6 spend time supporting children who are at the early stages of their reading development, to encourage and guide them.
+World Book Day
+Reading ambassadors are always busy up to something. Today they were taking photos of staff for our newspaper editors to use in their next edition. Our Head and Deputy spent the day being a couple of Wallys. We also really like Year 5's theme - especially Bruce and The Trunchbull!
+Have you seen our Head and Deputy anywhere?
+Reading Challenges
+Reading Ambassadors regularly meet to come up with reading challenge ideas for our children to complete at home. You can see the results of these projects and activities on displays around the school.
+window.pages = {"data":[{"id":"128138","title":"Prefects","current":0,"link":"\/page\/prefects\/128138","link_target":"_self"},{"id":"15012","title":"School Council","current":0,"link":"\/page\/school-council\/15012","link_target":"_self"},{"id":"129656","title":"Rocket Resilience Champions","current":0,"link":"\/page\/rocket-resilience-champions\/129656","link_target":"_self"},{"id":"20505","title":"Newspaper Club","current":0,"link":"\/page\/newspaper-club\/20505","link_target":"_self"},{"id":"128139","title":"Wellbeing Ambassadors","current":0,"link":"\/page\/wellbeing-ambassadors\/128139","link_target":"_self"},{"id":"20518","title":"Eco Warriors","current":0,"link":"\/page\/eco-warriors\/20518","link_target":"_self"},{"id":"15024","title":"Reading Ambassadors","current":1,"link":"\/page\/reading-ambassadors\/15024","link_target":"_self"},{"id":"129660","title":"Sports Ambassadors","current":0,"link":"\/page\/sports-ambassadors\/129660","link_target":"_self"},{"id":"131891","title":"eCadets","current":0,"link":"\/page\/ecadets\/131891","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

@@ -1,0 +1,103 @@
+Dovedale Primary School: Year Two Weekly Blog, 10th May
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Year Two Weekly Blog, 10th May
+Date:
+10th May 2019 @ 12:46pm
+The children have had an extremely busy week this week and the staff are very proud of how hard everyone has worked. We have particularly enjoyed our science lesson where we planted a range of different seeds. We will observe their growth over the next few weeks. The children also came up with some fantastic questions that we will investigate in our forthcoming lessons and some brilliant predictions. We have also enjoyed an afternoon of art linked to our science topic of plants. We used magnifying glasses to observe different flower petals closely and then chose our own media to represent the shapes, pattern, colours and textures we could see. In English we finished reading our class text 'Dougal's Deep Sea Diary' and have written postcards and letters linked to the story.
+Next week we will begin a new text, 'Journey' by Aaron Becker which is a wordless text. We will focus on the storyline and plot which is portrayed through the illustrations and make predictions and inferences about what will happen. We will then start to think of ideas for our own adventure story and where a magic door might take us. In Geography we will compare our city of Liverpool with Rio De Janeiro considering both the human and physical features of both cities and their famous landmarks.
+window.classes = {"data":[{"id":"2183","title":"Reception","current":0,"link":"\/class\/reception"},{"id":"3360","title":"Year 1","current":0,"link":"\/class\/year-1"},{"id":"3362","title":"Year 2","current":1,"link":"\/class\/year-2"},{"id":"2191","title":"Year 3","current":0,"link":"\/class\/year-3"},{"id":"2177","title":"Year 4","current":0,"link":"\/class\/year-4"},{"id":"2195","title":"Year 5","current":0,"link":"\/class\/year-5"},{"id":"2197","title":"Year 6","current":0,"link":"\/class\/year-6"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

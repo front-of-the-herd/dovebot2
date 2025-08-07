@@ -1,0 +1,110 @@
+Dovedale Primary School: Weekly Y4 blog 19.10.18
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Weekly Y4 blog 19.10.18
+Date:
+19th Oct 2018 @ 9:03am
+What a great first half term we have had in Year 4! The children are all completely settled and we’re very proud of how hard they are all working.
+This week in our Maths lessons we have carried on looking at column addition and column subtraction, you may wish to practise some calculations of your own at home, using 4 digit numbers. For example, 3456 + 4758   or   8913 – 2568. (The children should know what to do with exchanging.) Our school calculation policy can be found under ‘key information’ on the home page of our website. BBC bitesize is full of great video clips to help support with this too.
+On Wednesday, we performed our Harvest assembly and we are really pleased with the feedback we have received – thank you! We hope you all enjoyed it, the children should all be so proud of themselves.
+For Black History week this week we have been learning all about the Windrush Generation. Ask your child some facts they now know! The children have researched, created posters, made poems and taken part in role play activities all to do with the Windrush Generation. Lots of pictures can be found on our Twitter feed - @DovedaleY4.
+The spellings for next half term can be found on the Year 4 home page. We aren’t giving paper homework out over half term but the children should all have their reading books and reading records and we have set online homework through Mathletics.
+We hope you all have a great half term and we will see you all on Monday 29
+th
+October!
+YEAR 4 TEAM.
+window.classes = {"data":[{"id":"2183","title":"Reception","current":0,"link":"\/class\/reception"},{"id":"3360","title":"Year 1","current":0,"link":"\/class\/year-1"},{"id":"3362","title":"Year 2","current":0,"link":"\/class\/year-2"},{"id":"2191","title":"Year 3","current":0,"link":"\/class\/year-3"},{"id":"2177","title":"Year 4","current":1,"link":"\/class\/year-4"},{"id":"2195","title":"Year 5","current":0,"link":"\/class\/year-5"},{"id":"2197","title":"Year 6","current":0,"link":"\/class\/year-6"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

@@ -1,0 +1,108 @@
+Dovedale Primary School: Year 6 blog 1.3.19
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Year 6 blog 1.3.19
+Date:
+3rd Mar 2019 @ 6:21pm
+Year 6 began a new topic in poetry this week, Finding a Voice.
+We began by analysing the poem, 19th floor. Children generated discussion, vocabulary and thoughtful responses to the theme of poverty from a child’s perspective. Then we looked at the subject of the poem, a young girl, her life -living in difficult circumstances and how school would be for her. By Friday, children were ready to write a school report from the Headteacher’s perspective. Great writing.
+Next week, we look at the life of a Syrian refugee in Britain.
+In maths, we have been studying algebra and challenging ourselves with different tasks involving missing numbers, how letters relate to numbers and formula, and practising problems involving both. We continue to practise arithmetic on Mondays and daily challenge 5, and we also do a ten minute test to practise reasoning skills each morning. On Thursday we launched an investigation in diameter, radius and finding the circumference of circles using a formula.
+In science, we began a new topic, Evolution, and looked at how fossils provide evidence into how animals might have changed over millions of years. We produced fascinating discussion from our superbly intelligent year 6s and we’re looking forward to learning more in this topic.
+In history, we were investigating Tudor crimes and punishment. We looked at case studies, decided what the crime was and assigned the ‘appropriate’ Tudor punishment to the person on trial. We were surprised to see punishments like the drunkards cloak and ducking stool in action long after the Magna Carta was drawn up.
+On Tuesday and Wednesday, year 6s were treated to a Shakespeare workshop for Macbeth by @ascreatives company, who walked children back through the story in such a creative way, allowing children to express themselves theatrically, playing the roles of the main characters, learning about the key scenes and how they were played centuries ago. We had a fantastic time and thank As Creatives for extending our topic on plays so well.
+The year 6 team
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

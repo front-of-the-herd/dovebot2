@@ -1,0 +1,114 @@
+Dovedale Primary School: History
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+History
+Intent
+At Dovedale Primary School, we aim to provide inspiring and engaging lessons which bring History to life for our children enabling them to think like ‘Historians’. We are committed to developing our children’s passion for History through providing enriched learning opportunities which include educational visits and visitors to Dovedale. We equip our pupils, including those with SEND and vulnerable children, to have a secure understanding of when key events took place and aim to ignite their curiosity about the past. Alongside historical knowledge and understanding, there is a high focus on specific historical skills.  The teaching of History at Dovedale is intended to equip our pupils to ask pertinent questions about the past, analyse evidence, think critically, appreciate different perspectives and develop informed judgements. This will enable pupils to have transferable skills across other subjects.  We believe our pupils should be taught to understand how Britain has influenced and has been influenced by the wider world. In addition, our curriculum provides opportunities for pupils to explore their own identity through local history topics. Our History curriculum is intended to help pupils to understand the complexity of people’s lives, the process of change, the diversity of societies and relationships between different groups.
+Implementation
+Our History curriculum covers the knowledge and skills outlined in the National Curriculum through broad, challenging and inspiring topics.  The content is delivered within a meaningful context, with a clear intended outcome and wherever possible, cross curricular links are exploited.
+Key Stage 1:
+Topics taught at KS1 include changes within living memory, events beyond living memory and a focus on the lives of significant individuals in the past who have contributed to national and international achievements. In addition, we focus on significant historical events, people and places in our own locality of Liverpool.
+Key Stage 2:
+In Key Stage 2, History is set out in chronological order to allow children to reference the previous events in time and refer to this previous learning. They are able to draw comparisons and make connections between different time periods and their own lives. Interlinked with this are studies of world history, such as the civilisations of Greece, Egypt and Maya. Key vocabulary is identified and taught throughout lessons and is built upon year-on-year to deepen children’s understanding.
+The National Curriculum highlights the importance of local history for developing a sense of place and identity. The local landscape and buildings can often reveal a great deal about the use of land and the type of people who lived there in the past. Monuments and local heritage can highlight individual local heroes or provide a window into the lives of ordinary local people in times gone by.  A bespoke and unique local History Curriculum Map has been written by staff at Dovedale Primary School and is taught within EYFS, KS1 and KS2. We reflect upon our own past as a school and highlight significant people who attended Dovedale Primary School such as George Harrison and John Lennon of The Beatles.  We highlight and celebrate the achievements of our city and region while at the same time allow children to reflect upon Liverpool’s involved in the slave trade.
+Impact
+Outcomes in History books will show evidence of a broad and balanced History curriculum and demonstrate the children’s acquisition of identified key knowledge. A clear progression of skills in line with expectations set out in the progression document and, over time, children develop a range of skills across all the areas of the Historical curriculum. They will develop an understanding of the methods and skills of historians at an age-appropriate level. The History Lead will collate appropriate evidence over time which evidence that children are developing their skills and knowledge. Standards in the subject are monitored to ensure the outcomes are at expected levels and that the impact of the curriculum is wide reaching and positive.
+Files to Download
+History Progression of Skills 2024-2025.pdf
+History Curriculum Overview  2024-2025.pdf
+History Long Term Plan 2024-2025 (2).pdf
+window.pages = {"data":[{"id":"25620","title":"English","current":0,"link":"\/page\/english\/25620","link_target":"_self"},{"id":"25621","title":"Science","current":0,"link":"\/page\/science\/25621","link_target":"_self"},{"id":"19339","title":"Mathematics","current":0,"link":"\/page\/mathematics\/19339","link_target":"_self"},{"id":"25625","title":"Computing","current":0,"link":"\/page\/computing\/25625","link_target":"_self"},{"id":"39806","title":"Design & Technology","current":0,"link":"\/page\/design-technology\/39806","link_target":"_self"},{"id":"39808","title":"Geography","current":0,"link":"\/page\/geography\/39808","link_target":"_self"},{"id":"39809","title":"History","current":1,"link":"\/page\/history\/39809","link_target":"_self"},{"id":"39810","title":"Modern Foreign Languages","current":0,"link":"\/page\/modern-foreign-languages\/39810","link_target":"_self"},{"id":"25626","title":"Physical Education","current":0,"link":"\/page\/physical-education\/25626","link_target":"_self"},{"id":"39811","title":"Music","current":0,"link":"\/page\/music\/39811","link_target":"_self"},{"id":"39812","title":"PSHE and RSE","current":0,"link":"\/page\/pshe-and-rse\/39812","link_target":"_self"},{"id":"25627","title":"Religious Education","current":0,"link":"\/page\/religious-education\/25627","link_target":"_self"},{"id":"39805","title":"Art and Design","current":0,"link":"\/page\/art-and-design\/39805","link_target":"_self"},{"id":"141257","title":"Forest School","current":0,"link":"\/page\/forest-school\/141257","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

@@ -1,0 +1,123 @@
+Dovedale Primary School: Wellbeing Ambassadors
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Wellbeing Ambassadors
+What qualities does a Wellbeing Ambassador need?
+A Wellbeing Ambassador needs to be:
+Kind and Caring
+Empathetic
+A good listener
+Someone that notices how other children are feeling
+Someone willing to give up time with their friends to play with children that are sad or lonely
+Communicates ideas and opinions clearly
+Responsible and reliable
+Considerate
+Willing to give up some of their break and lunchtimes to prepare for events
+Introducing the children who have been chosen to be our Wellbeing Ambassadors for this year.
+We had so many fantastic entries, it was a very tough decision. What caring and compassionate children we have at Dovedale!
+They will be working together to ensure that all our children feel safe, happy and welcome in our school.
+Latest News
+Reading Assembly
+This wellbeing ambassador is an inspiration to all of our Dovedale children. She helped to lead an assembly on reading, using her own reading journey as an example for others to follow. She read out her prepared script, in front of 240 children, explaining how she managed to overcome the barrier of dyslexia to enjoying reading. In spite of her barrier, she kept going until she found an amazing book that she loved, then starting buying more and more. What a positive message for any reluctant readers out there - reading is for everyone!
+Child-led massage for parents
+Mr Smith wanted to say a BIG thank you to our Well-being Ambassadors who supported an EYFS parent's massage session in the infant hall. WBAs collected and escorted parents, and joined in with those who needed a partner, showing off their experience as Key Stage 2 massage experts.
+Cookie and a Chat morning
+This week's Cookie and a Chat morning, run by the Wellbeing ambassadors was a roaring success! The ambassadors baked cookies in advance of the day, and opened up the school to all parents for a coffee and cookie morning on Friday. It was a great opportunity for parents to spend time with our wonderful WB ambassadors and chat with the teachers - anything to raise community spirit is always a lovely experience. Thank you children for raising over £200 for playground equipment!
+Wellbeing assembly
+These wellbeing ambassadors made the brave choice to read aloud a poem about the impact of racism in our wellbeing assembly today.
+The wellbeing ambassadors have planned some lovely activites with our community, like an upcoming coffee morning for parents - we look forward to the cookies wellbeing ambassadors make for this event and hopefully we will make some money for playground equipment!
+window.pages = {"data":[{"id":"128138","title":"Prefects","current":0,"link":"\/page\/prefects\/128138","link_target":"_self"},{"id":"15012","title":"School Council","current":0,"link":"\/page\/school-council\/15012","link_target":"_self"},{"id":"129656","title":"Rocket Resilience Champions","current":0,"link":"\/page\/rocket-resilience-champions\/129656","link_target":"_self"},{"id":"20505","title":"Newspaper Club","current":0,"link":"\/page\/newspaper-club\/20505","link_target":"_self"},{"id":"128139","title":"Wellbeing Ambassadors","current":1,"link":"\/page\/wellbeing-ambassadors\/128139","link_target":"_self"},{"id":"20518","title":"Eco Warriors","current":0,"link":"\/page\/eco-warriors\/20518","link_target":"_self"},{"id":"15024","title":"Reading Ambassadors","current":0,"link":"\/page\/reading-ambassadors\/15024","link_target":"_self"},{"id":"129660","title":"Sports Ambassadors","current":0,"link":"\/page\/sports-ambassadors\/129660","link_target":"_self"},{"id":"131891","title":"eCadets","current":0,"link":"\/page\/ecadets\/131891","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

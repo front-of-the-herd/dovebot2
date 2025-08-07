@@ -1,0 +1,104 @@
+Dovedale Primary School: Forest School
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Forest School
+Forest School is rooted in evidence-based research and offers a wealth of benefits, including increased confidence, social and communication skills, and improved mental and physical health.  Sessions are both child-centred and child-led, and use the natural environment to facilitate a holistic learning journey of nurture and discovery.
+The map of our Forest School for 2024-2025
+Forest School in development
+The development of our Forest School has been a community effort, with volunteer workers, community donators and artistic and visionary parents and staff, who, together, have created a wonderful outdoor learning experience with fantastic opporunities for our children to flourish, build character, work collaboratively, solve problems and understand the world through nature.
+Forest School in action
+window.pages = {"data":[{"id":"25620","title":"English","current":0,"link":"\/page\/english\/25620","link_target":"_self"},{"id":"25621","title":"Science","current":0,"link":"\/page\/science\/25621","link_target":"_self"},{"id":"19339","title":"Mathematics","current":0,"link":"\/page\/mathematics\/19339","link_target":"_self"},{"id":"25625","title":"Computing","current":0,"link":"\/page\/computing\/25625","link_target":"_self"},{"id":"39806","title":"Design & Technology","current":0,"link":"\/page\/design-technology\/39806","link_target":"_self"},{"id":"39808","title":"Geography","current":0,"link":"\/page\/geography\/39808","link_target":"_self"},{"id":"39809","title":"History","current":0,"link":"\/page\/history\/39809","link_target":"_self"},{"id":"39810","title":"Modern Foreign Languages","current":0,"link":"\/page\/modern-foreign-languages\/39810","link_target":"_self"},{"id":"25626","title":"Physical Education","current":0,"link":"\/page\/physical-education\/25626","link_target":"_self"},{"id":"39811","title":"Music","current":0,"link":"\/page\/music\/39811","link_target":"_self"},{"id":"39812","title":"PSHE and RSE","current":0,"link":"\/page\/pshe-and-rse\/39812","link_target":"_self"},{"id":"25627","title":"Religious Education","current":0,"link":"\/page\/religious-education\/25627","link_target":"_self"},{"id":"39805","title":"Art and Design","current":0,"link":"\/page\/art-and-design\/39805","link_target":"_self"},{"id":"141257","title":"Forest School","current":1,"link":"\/page\/forest-school\/141257","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

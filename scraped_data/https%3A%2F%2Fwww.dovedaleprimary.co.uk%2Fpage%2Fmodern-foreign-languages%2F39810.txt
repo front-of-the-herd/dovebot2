@@ -1,0 +1,111 @@
+Dovedale Primary School: Modern Foreign Languages
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Modern Foreign Languages
+Intent
+At Dovedale Primary School, there is a belief that the acquisition of a language is part of a broader curriculum involving language and culture. We believe that the skills, knowledge and understanding gained through our French curriculum play a major contribution to the development of children’s oracy and literacy and to their understanding of their own culture/s and those of others. Therefore, we strive to provide opportunities to experience a range of other cultures, including the importance of respect and understanding, which is crucial in today’s world.
+As a school we have implemented an ambitious and quality MFL curriculum which aims to challenge and inspire, as well as enable children to become competent and confident linguists. All pupils, including year 6, including SEND children are taught the French curriculum and as they progress through the school, they build on their knowledge and prior learning through a carefully planned and sequenced curriculum becoming proficient in speaking, reading, listening and writing. Importantly these end points have been broken down into small manageable chunks. The children are consistently exposed to verbally speaking in French and encouraged to use this in their everyday language.
+At Dovedale Primary School, we feel that the earlier a child is exposed to a foreign language, the faster the language in question is acquired. We believe that the early acquisition of French will prepare children when learning of other foreign languages in Key Stage 3 and later life.
+Implementation
+The National Curriculum is used to teach and execute the MFL curriculum at Dovedale Primary School. We teach French as our selected foreign language since we believe it is our school's strongest language and is taught in all of our neighbouring secondary schools. It is taught every half term during Key Stage 2 and is aimed to help students improve their French skills.
+In Key Stage 2 French is taught by an expert French teacher. This new scheme covers all areas of the current curriculum and is organised and sequenced in such a way that important information and abilities are revisited, built on, and developed throughout year groups. This ambitious curriculum will provide all students with the necessary information and cultural capital to succeed in life. The specialist teacher is able to alter the plans to meet the requirements of individual students, such as Special Educational Needs, while ensuring that all students have access to the whole curriculum. To support and enhance the children’s knowledge, the learning is tailored to individuals with varied learning styles, a number of language teaching methods are utilised, including games, role-playing, the use of a variety of media, and songs. All of the resources and materials are conducive to successful learning. Children are encouraged to appreciate different cultures, allowing them to recognise their role in becoming global citizens.
+Impact
+All children will develop the key skills of speaking, listening, reading, and writing as a result of delivering an innovative language curriculum, allowing them to be confident linguists ready for transition to Key Stage 3. Year after year, the children will build on these skills and apply them to new things they are taught. They will continue to display their language growth by speaking in French with one another, expressing their thoughts on a variety of themes, and writing sentences using their phonic understanding of the language. Children at Dovedale will deepen their language learning by gaining a better awareness of how cultures differ in our community and beyond, as well as the ability to discuss these differences.
+Files to Download
+French Curriculum Overview 2024-2025.pdf
+French Progression Of Skills -2024-2025.pdf
+window.pages = {"data":[{"id":"25620","title":"English","current":0,"link":"\/page\/english\/25620","link_target":"_self"},{"id":"25621","title":"Science","current":0,"link":"\/page\/science\/25621","link_target":"_self"},{"id":"19339","title":"Mathematics","current":0,"link":"\/page\/mathematics\/19339","link_target":"_self"},{"id":"25625","title":"Computing","current":0,"link":"\/page\/computing\/25625","link_target":"_self"},{"id":"39806","title":"Design & Technology","current":0,"link":"\/page\/design-technology\/39806","link_target":"_self"},{"id":"39808","title":"Geography","current":0,"link":"\/page\/geography\/39808","link_target":"_self"},{"id":"39809","title":"History","current":0,"link":"\/page\/history\/39809","link_target":"_self"},{"id":"39810","title":"Modern Foreign Languages","current":1,"link":"\/page\/modern-foreign-languages\/39810","link_target":"_self"},{"id":"25626","title":"Physical Education","current":0,"link":"\/page\/physical-education\/25626","link_target":"_self"},{"id":"39811","title":"Music","current":0,"link":"\/page\/music\/39811","link_target":"_self"},{"id":"39812","title":"PSHE and RSE","current":0,"link":"\/page\/pshe-and-rse\/39812","link_target":"_self"},{"id":"25627","title":"Religious Education","current":0,"link":"\/page\/religious-education\/25627","link_target":"_self"},{"id":"39805","title":"Art and Design","current":0,"link":"\/page\/art-and-design\/39805","link_target":"_self"},{"id":"141257","title":"Forest School","current":0,"link":"\/page\/forest-school\/141257","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

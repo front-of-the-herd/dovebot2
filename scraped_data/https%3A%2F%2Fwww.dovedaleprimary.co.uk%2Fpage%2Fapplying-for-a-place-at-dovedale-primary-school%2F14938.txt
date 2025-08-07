@@ -1,0 +1,111 @@
+Dovedale Primary School: Applying for a place at Dovedale Primary School
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Applying for a place at Dovedale Primary School
+To apply for a place in Reception you need to apply through the Local Authority. As a community school the following criteria is used to allocate places:
+1. Looked After Children
+2. Medical or social needs
+3. Siblings
+4. Nearness to the school
+The link below will take you directly to the admissions page of the Local Authority website:
+http://liverpool.gov.uk/schools-and-learning/school-admissions/
+If you would like to transfer your child to our school the procedure is now to contact us directly if they are in Year 1 to 6. You can contact us directly in the spring term if you have a Reception child and would like to transfer them. In the autumn term you need to contact the Local Authority as they manage the process in this first term. We have a registering interest form which needs to be completed and returned to us.  If we do not have a space you will be placed on our 'waiting list'. We will contact you if a place becomes available. A new application needs to be made each term if you would like to transfer your child to Dovedale.
+If you are new to the country or new to Liverpool you will need to apply for a school place through the local authority. Click on the link below to apply:
+https://forms.liverpool.gov.uk/contour-forms/in-year-transfer-form/
+Files to Download
+Registering Interest Form 24-25.doc
+window.pages = {"data":[{"id":"14938","title":"Applying for a place at Dovedale Primary School","current":1,"link":"\/page\/applying-for-a-place-at-dovedale-primary-school\/14938","link_target":"_self"},{"id":"14933","title":"School Meal Menus","current":0,"link":"\/page\/school-meal-menus\/14933","link_target":"_self"},{"id":"14944","title":"Out of Hours Kids Club","current":0,"link":"\/page\/out-of-hours-kids-club\/14944","link_target":"_self"},{"id":"20206","title":"Dovedale Children's Centre","current":0,"link":"\/page\/dovedale-childrens-centre\/20206","link_target":"_self"},{"id":"15009","title":"Governors","current":0,"link":"\/page\/governors\/15009","link_target":"_self"},{"id":"23682","title":"Attainment and Standards","current":0,"link":"\/page\/attainment-and-standards\/23682","link_target":"_self"},{"id":"14936","title":"School Policies","current":0,"link":"\/page\/school-policies\/14936","link_target":"_self"},{"id":"26247","title":"Pupil Premium","current":0,"link":"\/page\/pupil-premium\/26247","link_target":"_self"},{"id":"32974","title":"Ofsted reports","current":0,"link":"\/page\/ofsted-reports\/32974","link_target":"_self"},{"id":"38045","title":"P.E and Sport Premium","current":0,"link":"\/page\/pe-and-sport-premium\/38045","link_target":"_self"},{"id":"14946","title":"Staff","current":0,"link":"\/page\/staff\/14946","link_target":"_self"},{"id":"17096","title":"Attendance","current":0,"link":"\/page\/attendance\/17096","link_target":"_self"},{"id":"14997","title":"Term Dates","current":0,"link":"\/page\/term-dates\/14997","link_target":"_self"},{"id":"28104","title":"Uniform","current":0,"link":"\/page\/uniform\/28104","link_target":"_self"},{"id":"104794","title":"Medical","current":0,"link":"\/page\/medical\/104794","link_target":"_self"},{"id":"18137","title":"Dovedale PTA","current":0,"link":"\/page\/dovedale-pta\/18137","link_target":"_self"},{"id":"143343","title":"Letters and school information","current":0,"link":"\/page\/letters-and-school-information\/143343","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

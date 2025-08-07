@@ -1,0 +1,131 @@
+Dovedale Primary School: On-line safety and filtering
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+On-line safety and filtering
+Online Safety
+Online Safety is an important part of keeping children safe at Dovedale Primary School . We have extensive security measures in place in school, which are monitored both internally and externally, to help safeguard pupils from potential dangers or unsuitable material. Any Online Safety incidents are recorded and managed.
+Online Safety is taught to all pupils explaining and demonstrating how to stay safe and behave appropriately online. Each half term we have an Online Safety week where all pupils, across both key stages, take part in lessons ranging from digital wellbeing to cyberbullying and keeping information safe. We also have one eCadet from each class, in Key Stage 2, who assists in delivering assemblies as well as giving support and sharing their expertise.
+Think before you click
+At school we follow the policy 'Think before you click'. Children are aware of the potential dangers online and are educated on how to use the internet safely. Every child also signs  an
+Acceptable Use Agreement (kS1)
+and
+Acceptable Use Agreement (kS2)
+so that we know they have read and understood our school's rules on staying safe.
+We can only be successful in keeping children safe online if we work with parents to ensure the Online Safety message is consistent. It is important that parents speak to their children about how they can keep safe and behave appropriately online.
+We use ‘Be internet legends’ for our Online Safety lessons in Key Stage two and we have taken part in live assemblies with a clear focus on staying safe online.
+Here are some resources that parents may find useful:
+https://www.internetmatters.org/schools-esafety/parent-online-support-pack-teachers/
+https://www.ceop.police.uk/safety-centre/
+https://www.thinkuknow.co.uk/
+https://parentsafe.lgfl.net/
+Filtering and Monitoring
+Schools in England and Wales are required “to ensure children are safe from terrorist and extremist material when accessing the internet in school, including by establishing appropriate levels of filtering”. Furthermore, it expects that they “assess the risk of [their] children being drawn into terrorism, including support for extremist ideas that are part of terrorist ideology”.
+The Department for Education’s statutory guidance ‘Keeping Children Safe in Education’ obliges schools and colleges in England to “ensure appropriate filters and appropriate monitoring systems are in place and regularly review their effectiveness” and they “should be doing all that they reasonably can to limit children’s exposure to [Content, Contact, Conduct, Contract] risks from the school’s or college’s IT system” however, schools will need to “be careful that “over blocking” does not lead to unreasonable restrictions as to what children can be taught with regards to online teaching and safeguarding.”
+To ensure this is in place Dovedale uses LGfL who provide us with SchoolProtect-Webscreen filtering. The filtering system is robust and meets all of the requirements set out by the DfE in KCSIE 2023.
+Files to Download
+Snapchat checklist
+Twitter checklist
+Instagram checklist
+Facebook checklist
+Anonymous Apps Guide
+Balancing Screen Time
+Balancing Screen Time 5-7 KeyStage1
+Balancing Screen Time 7-11 KeyStage 2
+Internet Matters Leaflet Toolkit
+Pegi rating information for parents
+Online safety -parent information.pdf
+window.pages = {"data":[{"id":"15026","title":"On-line safety and filtering","current":1,"link":"\/page\/on-line-safety-and-filtering\/15026","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

@@ -1,0 +1,118 @@
+Dovedale Primary School: Rainbow Flag Award
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Rainbow Flag Award
+We are proud to share that we have been awarded The Rainbow Flag Award!
+In January 2023, we undertook the task of setting out to achieve The Rainbow Flag Award. As a school, we pride ourselves on being an inclusive environment that is welcoming to everyone from every walk of life, and this is something that has been acknowledged through us achieving our School of Sanctuary status twice and being awarded The John Cole Award for Excellence in Equality and Inclusion. We felt an area of inclusion that we wanted to hone in on was LGBTQIA+ and setting out to achieve this award was something that we welcomed as a school. The aim of this award is to make sure our school has a strong approach to LGBT+ inclusion and to develop strategies to challenge and combat any LGBT+ phobic behaviours. We are committed to being involved in improving the lives of all the people that we work with, and this framework will help us to do this specifically for pupils who identify as LGBT+, those from LGBT+ families, and LGBT+ staff members in a skillful and knowledgeable way.
+To achieve this award, we have to submit evidence to prove we are demonstrating skills in six standards expected in this framework, these are:
+Skilled Teachers - Achieved
+Supportive Parents and Governors - Achieved
+Effective Policies - Achieved
+Inclusive Curriculum - Achieved
+Pastoral Support - Achieved
+Student Voice - Achieved
+Our aim is to continue with the hard work we have put in place over the past year and to continue to build on the supportive environment we have begun to create for out LGBT+ pupils, families, and staff. We also want to ensure families that if your child is expressing any thoughts or feelings around being part of the LGBT+ community or they have questions that you are unsure how to answer, that we are here to help. We have staff who have training or experiences in this area, we have an array of texts that support learning and understanding in this area, and we have a curriculum that is built around inclusivity. We also have a PSHE library with a rich and diverse range of texts suitable for different ages with a focus on LGBTQIA+ matters.
+We have also included some links and signposting to different websites, resources and organisations that may be of use to you simply to answer questions or even to support with more complex situations such as a child expressing a want or need to change gender/sex.
+As always, please don’t feel like anything is off limits, we are here to help in any way that we can if the below information is not suffice then please come to us and we will do our very best to support you.
+Young Person’s Advisory Service – Provide mental health and emotional wellbeing services for Liverpool children, young people (up to 25) and their families YPAS) - https://www.ypas.org.uk/
+Mermaids - Supporting trans, non-binary and gender-diverse children, young people and their families - https://mermaidsuk.org.uk/
+Liverpool CAMHS - Child and Adolescent Mental Health Services (CAMHS) are services that support young people experiencing poor mental health, or difficult feelings or experiences - https://www.liverpoolcamhs.com/need-advice/gender-identity/
+LGBT Foundation – A wide range of resources and information to support people and families with LGBT+ matters - https://lgbt.foundation/
+NHS Gender Dysphoria Information - https://www.nhs.uk/conditions/gender-dysphoria/#:~:text=Gender%20dysphoria%20is%20a%20term,harmful%20impact%20on%20daily%20life.
+Files to Download
+PSHE Library Books Inventory.docx
+window.pages = {"data":[{"id":"54474","title":"School of Sanctuary","current":0,"link":"\/page\/school-of-sanctuary\/54474","link_target":"_self"},{"id":"135297","title":"Personal Development","current":0,"link":"\/page\/personal-development\/135297","link_target":"_self"},{"id":"143949","title":"Rainbow Flag Award","current":1,"link":"\/page\/rainbow-flag-award\/143949","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

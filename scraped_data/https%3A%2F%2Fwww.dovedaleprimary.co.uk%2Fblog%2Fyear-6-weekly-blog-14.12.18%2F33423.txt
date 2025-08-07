@@ -1,0 +1,111 @@
+Dovedale Primary School: Year 6 Weekly Blog 14.12.18
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Year 6 Weekly Blog 14.12.18
+Date:
+14th Dec 2018 @ 4:26pm
+What a busy week for year 6!
+Our mornings were taken up with some end of term assessments this week, and we are very proud of the effort shown by each and every child. We are delighted with the progress they have shown in all areas; children have been applying the skills and knowledge learned since September. Arithmetic skills in maths have advanced particularly well and, in reading, children are applying their inference and retrieval skills to good effect. Keep up the good work, year 6 - and keep reading at home and stay on top of your homework.
+Our Water Polo team were brilliant on Monday and represented Dovedale well. They didn't make it to the final match, but we are proud of their achievements and some of our children were scouted for the city team.
+We managed to fit in some writing throughout this busy week, and children wrote from the perspective of Ebenezer Scrooge in Charles Dickens' A Christmas Carol for our topic - Stories with Flashbacks. They applied the Victorian vocabulary that we have studied over the three weeks and produced some pleasing results.
+On Wednesday afternoon, all three classes were equally impressed by the knowledge of our Muslim children when we studied commitment in Islamic faith and what it means to be a Muslim. Children recorded their thoughts, ideas and opinions and we used the five pillars of Islam as the basis of our learning for the afternoon.
+We capped off a fantastic Maya Art topic on Thursday and Friday afternoon, when we made our own printing tiles and produced a class mural of Maya patterns and designs which we had been drafting in sketch books over a number of weeks. We are looking forward to making a display of this fabulous art work.
+Next week there is much to remember.
+On Tuesday, children will be allowed to wear own clothes, bring in a board game for the morning, some Christmas table decorations and a plate of food for a class party in the afternoon.
+On Wednesday, it is Christmas jumper day (also own clothes) and we may have some other surprises in store throughout the week - perhaps some craft along the way, and Mrs Callister's famous popcorn machine.
+Year 6 team.
+window.classes = {"data":[{"id":"2183","title":"Reception","current":0,"link":"\/class\/reception"},{"id":"3360","title":"Year 1","current":0,"link":"\/class\/year-1"},{"id":"3362","title":"Year 2","current":0,"link":"\/class\/year-2"},{"id":"2191","title":"Year 3","current":0,"link":"\/class\/year-3"},{"id":"2177","title":"Year 4","current":0,"link":"\/class\/year-4"},{"id":"2195","title":"Year 5","current":0,"link":"\/class\/year-5"},{"id":"2197","title":"Year 6","current":1,"link":"\/class\/year-6"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

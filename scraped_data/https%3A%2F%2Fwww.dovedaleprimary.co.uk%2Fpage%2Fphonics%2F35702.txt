@@ -1,0 +1,166 @@
+Dovedale Primary School: Phonics
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Phonics
+Our school is proud to use the Read, Write Inc phonics programme.
+We implemeted this in 2015 and our results have consistently been significantly above the national and local percentages with a 96% pass rate in 2024.
+Read Write Inc. Programmes - developed by Ruth Miskin - provides a whole-school approach to teaching literacy for 4 - 11-year-olds to create fluent readers, confident speakers and willing writers.
+Each member of staff is trained by Ruth Miskin Training (rated outstanding by Ofsted) to ensure consistent practice across the whole-school.
+Here are some useful videos and resources to help you when supporting your child's reading at home
+Set 1 Sounds
+are taught in the order shown, together with rhymes to help children form the letters correctly and instantly recognise sounds ready for blending.
+At this stage we do not use the letter names.  Play the video below that shows how to say the sounds correctly.
+Set 1 Speed Sounds Slideshow
+Set 2 Speed Sounds Slideshow
+Set 3 Speed Sounds Slid
+eshow
+The children are then taught
+Set 2
+Sounds
+- the long vowels.
+When they are very confident with all of set 1 and 2 they are taught
+Set 3 Sounds.
+When the children learn Set 3 sounds they begin to use
+letter names
+as they have been exposed to more ways to write a sound, for example ‘air’ and ‘are’.
+Reading
+The children:
+Learn 44 sounds and the corresponding letters/letter groups using simple picture prompts
+Learn to orally blend sounds into words
+Learn to read words using Fred talk and sound blending
+Read from a range of storybooks and non-fictions books matched to their phonic knowledge
+Work well with a partner
+Develop comprehension skills in stories by answering 'Find It' and 'Prove It' discussion questions
+Writing
+The children:
+Learn to write and form the letters/letter groups which represent the 44 sounds with the help of fun phrases
+Learn to write words by using Fred Talk
+Learn to remember a dictated sentence by practising the sentence out loud before writing.
+This is called
+hold a sentence
+and encourages children to remember a whole sentence while focusing on spelling and punctuation.
+Talking
+The children:
+Work in pairs to answer questions
+Practise every activity with their partner
+Take turns in talking and reading to each other
+Develop ambitious vocabulary
+In RWI sessions children will be exposed to
+red
+and
+green
+words to learn to help them to become speedy readers.
+Red
+words are words that are not easily decodable and challenge words to extend children’s vocabulary.
+Green
+words are linked to the sounds they have been learning and are decodable.  Children will first read words with dots and dashes that represent the sound each letter makes, before expected to read words without the dots and dashes and read them ‘at a glance’.
+As well as learning to read and blend real words children will have plenty of opportunities to apply their sound recognition skills to read ‘Nonsense words’. These words will feature in the Year One Phonics Screening check in the summer term.  Nonsense words allow children to apply and practice their sound/reading skills so they will be able to decode any unfamiliar words they may come across on their reading journey.
+Over the week, children will read the storybook three or four times and at the final read, children are confident to respond to comprehension questions and read the story with appropriate expression. This book is sent home on Thursday so they can show you their amazing reading skills. Children will also bring home a ‘Book Bag book’ that links to the school storybook.  This will be a book they have not seen or read before, unless they have been reissued a book for fluency purposes.  Children may also have QR codes to scan and watch at home.  The QR codes are to reinforce sounds taught in school, to accelerate progress by filling sound gaps quicky, or provide your child with more practise reading sounds and words.
+The reading books that are sent home should not be challenging for the children to read as they are pitched at the appropriate level for your child. Phonics sessions will provide your child with challenge; reading at home is for practise and enjoyment.
+More resources such as word slideshow and practise sheets
+Files to Download
+Home Practice Speed Sounds Cards.pdf
+Complex Speed Sounds Chart
+Simple Speed Sounds Chart
+Letter Formation Phrases
+Fred Talk Games EYFS
+Expectations of Progress Sept 23.pdf
+RWI Phonic Groups and next steps
+RWI Phonics Terminology
+Phonics Screening Information
+RWI information booklet for parents
+window.pages = {"data":[{"id":"25614","title":"Reading","current":0,"link":"\/page\/reading\/25614","link_target":"_self"},{"id":"35702","title":"Phonics","current":1,"link":"\/page\/phonics\/35702","link_target":"_self"},{"id":"118081","title":"Spelling","current":0,"link":"\/page\/spelling\/118081","link_target":"_self"},{"id":"140427","title":"Writing","current":0,"link":"\/page\/writing\/140427","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

@@ -1,0 +1,129 @@
+Dovedale Primary School: Year 5 blog - week ending 1st March 2019
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Year 5 blog - week ending 1st March 2019
+Date:
+1st Mar 2019 @ 2:30pm
+This week in Year 5, we have been working extremely hard and enjoying the following activities: -
+Maths – Improper fractions and mixed numbers
+English – Focusing on ‘Holes’ – explanation and predictions
+Geography – Where does our school uniform come from?
+P.E – Football
+Swimming – Developing confidence and water skills
+Music and ICT
+Play – Shakespeare Rocks rehearsals
+Again, another superb week we have had. We were surprised to find out where in the world all our uniform came from!! Mind boggling.
+We cannot wait until next week where we will be enjoying the following lessons:
+Maths – Fractions and sequencing
+English – Focusing on ‘Holes’ – writing opportunities
+Jigsaw – Healthy Me and smoking
+P.E – Football
+Swimming – Developing confidence and water skills
+Music and ICT
+Play – Shakespeare Rocks rehearsals
+A huge thank you for your continuing support.
+Remember to learn your lines for our production – ‘Shakespeare Rocks.’
+Don’t forget your song lyrics too!
+Please ensure that you listen to your child read at least 3 times a week.
+Please make sure that your child brings in their reading book and record card every day.
+Don’t forget your swimming cap.
+Remember to use your Mathletics account and have fun with maths!!!
+Try out our new app to help you with your Times Tables! Awake that inner rock god!
+We are looking for any parent who would be willing to come in to their child’s class and talk about job and the maths involved in it. If you would like to volunteer, please leave your details at the office or a note to your child’s teacher and we’ll be in touch.
+Kind regards
+Year 5 teachers
+window.classes = {"data":[{"id":"2183","title":"Reception","current":0,"link":"\/class\/reception"},{"id":"3360","title":"Year 1","current":0,"link":"\/class\/year-1"},{"id":"3362","title":"Year 2","current":0,"link":"\/class\/year-2"},{"id":"2191","title":"Year 3","current":0,"link":"\/class\/year-3"},{"id":"2177","title":"Year 4","current":0,"link":"\/class\/year-4"},{"id":"2195","title":"Year 5","current":1,"link":"\/class\/year-5"},{"id":"2197","title":"Year 6","current":0,"link":"\/class\/year-6"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

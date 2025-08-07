@@ -1,0 +1,111 @@
+Dovedale Primary School: Art and Design
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Art and Design
+Intent
+At Dovedale Primary school, we value Art and Design as an important part of our children’s broad and balanced curriculum. We have developed a high-quality curriculum to meet the needs of our children, ensuring that they are exposed to a diverse range of art and design, representing history and the present day. This will engage, inspire, and challenge pupils, equipping them with the knowledge and skills to experiment, invent and create their own works of art, craft, and design. Our curriculum will specialise in drawing, and painting throughout the first two terms with summer units of work further developing such skills as well as learning other disciplines. As pupils progress through school, they will build on their knowledge and prior learning to reach clear end points. They will become proficient in the skill areas of painting, drawing, printing, weaving, sculpting, and understanding the visual elements of Art and Design (pattern, colour, texture, tone, shape, line).
+Opportunity will be given to all pupils, including year 6, those with SEND and vulnerable children, to foster enjoyment and appreciation of the visual arts and develop a knowledge of significant artists, craftspeople, illustrators, designers, and architects; developing their ability to think critically, discuss and evaluate work using the language of Art and Design.
+We endeavour to widen pupils' knowledge through studying a diverse range of male and female artists, craft makers, illustrators, architects, and designers throughout history and of differing cultural heritages. We plan first hand opportunities to provide all pupils with the opportunity to see artists at work, widening the pupil’s cultural capital.
+Implementation
+The teaching and implementation of the Art and Design curriculum at Dovedale Primary school is based on the National Curriculum. From Year 1 onwards, sketchbook work is an integral part of developing skills, ideas, creativity, and ownership of their work. Art is taught as a discrete subject throughout the year. A focus on drawing and painting during the first two terms, followed by a unit of work during the summer term. This allows the pupils to gain knowledge and skills in the key skill areas of painting and drawing and then learn and develop further skills in printing, sculpting, and weaving. The unit plans for each term cover one of the main skill areas with some units combining two or more skill areas. The units of work have been planned and designed by art leaders at Dovedale and are sequential in that the skills and techniques being taught build upon the pupils prior learning and units. All units of work are based around a significant artist, illustrator, designer, or architect. Where relevant, meaningful cross-curricular links are made with other subjects. The artwork is used as a stimulus for discussion, encouraging oracy and opinion, evaluation, and inspiration. It provides an opportunity to develop key subject specific vocabulary and information about the person. Each unit allows pupils to discover first-hand the potential of media and techniques whilst subtly developing control of a range of art tools and materials before building up to and completing a final piece. However, if an artist needs to continue to master the fluency of a skill, they must be encouraged to do so before moving on. The skills and knowledge that the children will develop throughout each unit are mapped across each year group and throughout the school to ensure progression and a clear end point. The evidence of their work is collected within the art sketchbook and photographs of larger, group or 3D pieces are also kept within this book. The children’s work is further enhanced with creative projects and visiting artists, craft makers and designers.
+Impact
+As a result of delivering a high-quality curriculum all pupils will have embedded the key art and design knowledge, skills and cultural capital needed to allow them to be ready for the next stage in their education. Pupils at Dovedale will become creative learners, who have a range of knowledge about the great artists, illustrators, architects, and designers of the world. They will be reflective and evaluate their own and others work, thinking about how they can make changes to keep improving. They will understand and demonstrate artistic skills through the work produced, developing mastery of art and design techniques, evidenced in their sketchbooks. They will appreciate that art can be lots of different things and that it can be a gateway to other learning, exploring other cultures and give a sense of freedom. They will have also acquired subject related vocabulary which pupils will use confidently and will be transferable across the whole curriculum.
+Files to Download
+Art and Design Curriculum Overview 2024-2025.pdf
+Art and Design Progression of Skills 2024-2025.pdf
+Art and Design Long Term Plan 2024-2025.pdf
+window.pages = {"data":[{"id":"25620","title":"English","current":0,"link":"\/page\/english\/25620","link_target":"_self"},{"id":"25621","title":"Science","current":0,"link":"\/page\/science\/25621","link_target":"_self"},{"id":"19339","title":"Mathematics","current":0,"link":"\/page\/mathematics\/19339","link_target":"_self"},{"id":"25625","title":"Computing","current":0,"link":"\/page\/computing\/25625","link_target":"_self"},{"id":"39806","title":"Design & Technology","current":0,"link":"\/page\/design-technology\/39806","link_target":"_self"},{"id":"39808","title":"Geography","current":0,"link":"\/page\/geography\/39808","link_target":"_self"},{"id":"39809","title":"History","current":0,"link":"\/page\/history\/39809","link_target":"_self"},{"id":"39810","title":"Modern Foreign Languages","current":0,"link":"\/page\/modern-foreign-languages\/39810","link_target":"_self"},{"id":"25626","title":"Physical Education","current":0,"link":"\/page\/physical-education\/25626","link_target":"_self"},{"id":"39811","title":"Music","current":0,"link":"\/page\/music\/39811","link_target":"_self"},{"id":"39812","title":"PSHE and RSE","current":0,"link":"\/page\/pshe-and-rse\/39812","link_target":"_self"},{"id":"25627","title":"Religious Education","current":0,"link":"\/page\/religious-education\/25627","link_target":"_self"},{"id":"39805","title":"Art and Design","current":1,"link":"\/page\/art-and-design\/39805","link_target":"_self"},{"id":"141257","title":"Forest School","current":0,"link":"\/page\/forest-school\/141257","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

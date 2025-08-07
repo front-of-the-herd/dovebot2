@@ -1,0 +1,110 @@
+Dovedale Primary School: Newspaper Club
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Newspaper Club
+Hello and a big welcome to The Dovedale Times, 2024-25!
+Here, you can keep up-to-date with the latest news around school, in our local area, and the world.
+Our journalists work together to keep us updated on the latest news and views in our school, locally, and nationally.
+Below are links to the latest editions of Dovedale Times news
+2024 Chritmas Edition of The Dovedale Times
+2024 Autumn Edition of The Dovedale Times
+2024 Edition of The Dovedale Times
+Files to Download
+The Dovedale Times July 2023.pdf
+The Dovedale Times - Autumn 2023
+The Dovedale Times - Spring 2023.pdf
+window.pages = {"data":[{"id":"128138","title":"Prefects","current":0,"link":"\/page\/prefects\/128138","link_target":"_self"},{"id":"15012","title":"School Council","current":0,"link":"\/page\/school-council\/15012","link_target":"_self"},{"id":"129656","title":"Rocket Resilience Champions","current":0,"link":"\/page\/rocket-resilience-champions\/129656","link_target":"_self"},{"id":"20505","title":"Newspaper Club","current":1,"link":"\/page\/newspaper-club\/20505","link_target":"_self"},{"id":"128139","title":"Wellbeing Ambassadors","current":0,"link":"\/page\/wellbeing-ambassadors\/128139","link_target":"_self"},{"id":"20518","title":"Eco Warriors","current":0,"link":"\/page\/eco-warriors\/20518","link_target":"_self"},{"id":"15024","title":"Reading Ambassadors","current":0,"link":"\/page\/reading-ambassadors\/15024","link_target":"_self"},{"id":"129660","title":"Sports Ambassadors","current":0,"link":"\/page\/sports-ambassadors\/129660","link_target":"_self"},{"id":"131891","title":"eCadets","current":0,"link":"\/page\/ecadets\/131891","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

@@ -1,0 +1,119 @@
+Dovedale Primary School: Weekly Y4 blog 16.11.18
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Weekly Y4 blog 16.11.18
+Date:
+16th Nov 2018 @ 4:06pm
+This week was
+ANTI-BULLYING
+week and the theme was
+RESPECT.
+The children have been learning about all of the different kinds of bullying and have had lots of discussions. On Friday afternoon, the children watched an animation called
+THE DAISY CHAIN
+and then made their own daisies to share positive messages. Pictures are on our Twitter feed, @DovedaleY4. We will be putting our daisies up on display for everybody to see and to hopefully spread kindess.
+In Maths and English this week we have been working very hard! In Maths, we have been working on our reasoning skills and we have been solving lots of tricky problems to do with rounding, estimating and finding the inverse. In English, the children have been learning how to take notes and are now familiar with acronyms and abbreviations.
+We completed a mini Science assessment this week as we have finished our first topic of 'Sound.' The children should now be able to:
+-Identify how sounds are made, associating some of them with something vibrating.
+- Recognise that vibrations from sounds travel through a medium to the ear.
+- Find patterns between the pitch of a sound and features of the object that produced it.
+- Find patterns between the volume of a sound and the strength of the vibrations that produced it.
+- Recognise that sounds get fainter as the distance from the sound source increases.
+Well done to all of our stars of the week this week, thank you for your continued hard work.
+Have a great weekend...
+YEAR 4 TEAM.
+Can you solve the puzzle?
+window.classes = {"data":[{"id":"2183","title":"Reception","current":0,"link":"\/class\/reception"},{"id":"3360","title":"Year 1","current":0,"link":"\/class\/year-1"},{"id":"3362","title":"Year 2","current":0,"link":"\/class\/year-2"},{"id":"2191","title":"Year 3","current":0,"link":"\/class\/year-3"},{"id":"2177","title":"Year 4","current":1,"link":"\/class\/year-4"},{"id":"2195","title":"Year 5","current":0,"link":"\/class\/year-5"},{"id":"2197","title":"Year 6","current":0,"link":"\/class\/year-6"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

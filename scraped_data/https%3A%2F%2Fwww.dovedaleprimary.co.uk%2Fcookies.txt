@@ -1,0 +1,141 @@
+Dovedale Primary School: Cookie Policy
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Cookie Policy
+Like most websites, this one uses cookies.
+Cookies are small text files stored on your computer by your browser. They're used for many things, such as remembering whether you've visited the site before, so that you remain logged in - or to help us work out how many new website visitors we get each month. They contain information about the use of your computer but don't include personal information about you (they don't store your name, for instance).
+About this Cookie policy
+This Cookie Policy applies to all of our websites and our mobile applications ("the Website").
+By accessing the Website, you agree that this Cookie Policy will apply whenever you access the Website on any device.
+Any changes to this policy will be posted here. We reserve the right to vary this Cookie Policy from time to time and such changes shall become effective as soon as they are posted. Your continued use of the Website constitutes your agreement to all such changes.
+Our use of cookies
+We may collect information automatically when you visit the Website, using cookies.
+The cookies allow us to identify your computer and find out details about your last visit.
+You can choose, below, not to allow cookies. If you do, we can't guarantee that your experience with the Website will be as good as if you do allow cookies.
+The information collected by cookies does not personally identify you; it includes general information about your computer settings, your connection to the Internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on the Website and your location.
+Most internet browsers accept cookies automatically, but you can change the settings of your browser to erase cookies or prevent automatic acceptance if you prefer.
+These links explain how you can control cookies via your browser - remember that if you turn off cookies in your browser then these settings apply to all websites not just this one:
+Internet Explorer
+http://support.microsoft.com/kb/278835
+(this page links to further information for different versions of IE - the mobile version is at
+http:/ /www.microsoft.com/windowsphone/en-us/howto/wp7/web/changing-privacy-and-other-browser-settings.aspx
+).
+Chrome:
+http://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647
+Safari:
+http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html
+(or
+http://support.apple.com/kb/HT1677
+for mobile versions)
+Firefox:
+http://support.mozilla.org/en-US/kb/ Enabling%20and%20disabling%20cookies
+Blackberries:
+http://docs.blackberry.com/en/smartphone_users/deliverables/ 32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp
+Android:
+http://support.google.com/mobile/bin/answer.py?hl=en&answer=169022
+Opera:
+http://www.opera.com/browser/tutorials/security/privacy/
+Microsoft Edge:
+https://support.microsoft.com/en-us/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09
+Types of cookie that may be used during your visit to the Website:
+The following types of cookie are used on this site. We don't list every single cookie used by name - but for each type of cookie we tell you how you can control its use.
+Analytics cookies
+These monitor how visitors move around the Website and how they reached it. This is used so that we can see total (not individual) figures on which types of content users enjoy most, for instance.
+You can opt out of these if you want:
+Google:
+https://tools.google.com/dlpage/gaoptout
+Site management cookies
+These are used to maintain your identity or session on the Website. For instance, where our websites run on more than one server, we use a cookie to ensure that you are sent information by one specific server (otherwise you may log in or out unexpectedly). We may use similar cookies when you vote in opinion polls to ensure that you can only vote once, and to ensure that you can use our commenting functionality when not logged in (to ensure you don't see comments you've reported as abusive, for instance, or don't vote comments up/down more than once).
+These cookies cannot be turned off individually but you could change your browser setting to refuse all cookies (see above) if you do not wish to accept them.
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

@@ -1,0 +1,166 @@
+Dovedale Primary School: Our blogs
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Our blogs
+Page
+1
+2
+...
+9
+10
+11
+...
+18
+19
+Talk For Writing
+, by  Year 4 team - Miss Middleton, Mrs Thomas, Mrs Harrison, Mrs Hughson
+Black History Week -Debating
+, by  Year 4 team - Miss Middleton, Mrs Thomas, Mrs Harrison, Mrs Hughson
+Amazing Area!
+, by  Year 4 team - Miss Middleton, Mrs Thomas, Mrs Harrison, Mrs Hughson
+6C: Was Ruby Bridges a hero?
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+6C Open morning
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+6P-Using Role Play to highlight inclusion and treating others fairly as part of Black History Week
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Performance Poetry!
+, by  Year 3 - Mrs Doherty, Miss Murphy, Ms Gudgeon, Mrs Dunne, Mrs Gosney
+Black History Week
+, by  Year 3 - Mrs Doherty, Miss Murphy, Ms Gudgeon, Mrs Dunne, Mrs Gosney
+Outdoor rounding in maths
+, by  Year 4 team - Miss Middleton, Mrs Thomas, Mrs Harrison, Mrs Hughson
+Bug Hunting
+, by  Year 4 team - Miss Middleton, Mrs Thomas, Mrs Harrison, Mrs Hughson
+Open Morning!
+, by  Year 4 team - Miss Middleton, Mrs Thomas, Mrs Harrison, Mrs Hughson
+3DG Stars of the week
+, by  Year 3 - Mrs Doherty, Miss Murphy, Ms Gudgeon, Mrs Dunne, Mrs Gosney
+3DG Geography
+, by  Year 3 - Mrs Doherty, Miss Murphy, Ms Gudgeon, Mrs Dunne, Mrs Gosney
+6P - The Life of Anne Frank...a 6P Production
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+6C Anne Frank Role Plays
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+3DG Stars of the week
+, by  Year 3 - Mrs Doherty, Miss Murphy, Ms Gudgeon, Mrs Dunne, Mrs Gosney
+Volcano eruptions!
+, by  Year 3 - Mrs Doherty, Miss Murphy, Ms Gudgeon, Mrs Dunne, Mrs Gosney
+Finishing our volcanoes!
+, by  Year 3 - Mrs Doherty, Miss Murphy, Ms Gudgeon, Mrs Dunne, Mrs Gosney
+6P - Personification of shoes
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+6P - Table Top Angle Mangle with Joe Mangle
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+6P - Making the circulatory system
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+6P - PE With Mr Kirkwood
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+6P - Impact of exercise on heart rate
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+6P - Identifying Autobiographical Features
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+6C: How do different exercises effect our heart rate?
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Page
+1
+2
+...
+9
+10
+11
+...
+18
+19
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

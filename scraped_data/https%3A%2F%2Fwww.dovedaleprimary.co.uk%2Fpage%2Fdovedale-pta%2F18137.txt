@@ -1,0 +1,131 @@
+Dovedale Primary School: Dovedale PTA
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Dovedale PTA
+Dovedale PTA is a
+registered charity, no. 516176
+We’re a volunteer group of family members, carers & people with an interest in Dovedale Primary School (including those whose children used to go to Dovedale, or who used to go to Dovedale themselves).  We work with staff to organise fun events for our children and families to enjoy, whilst at the same time raising much-needed funds for our school.
+Committee
+Ms Leigh-Angel Bevan
+is our Chair of the PTA.
+Mrs Susannah Gorman
+is our Secretary
+Mr Richard Crail
+is our Treasurer
+We’re a big school, and very lucky that our families are hugely generous in terms of their donations to, and attendance at, the events that we run.  Partly because we are such a big school, however, our small school PTA doesn’t know everyone and so we can’t make personal asks
+.  If you could possibly help out in any way – any way at all – please do contact us.
+Not everyone wants – or has the time - to join the PTA, but
+there are lots of ways that you can help us to do the best for our children, and many of them are totally FREE!
+If you’re happy to help out as & when you can, please join our bank of helpers by emailing us at
+pta@dovedaleprimary.co.uk
+We can then contact you as & when we’re running an event, and – if you’re free – you can let us know!
+We’re always looking for games and/or raffle prizes.  Are you – or anyone you know – able to help us with this?  If so, please email us at
+pta@dovedaleprimary.co.uk
+Does your employer offer any support to local charities, such as:
+Discounts on items purchased;
+Matching any funds raised;
+Donating items in support of events – and we mean almost any items!  Obviously things we can use as games or raffle prizes are fantastic, but loads of other stuff is equally valuable & very gratefully received – e.g. bags/boxes for cake sales/storage; stationary items;
+Offering opportunities for our pupils to fundraise themselves – e.g. by supermarket bag-packing?
+If so, please email us at
+pta@dovedaleprimary.co.uk
+Are you – or is anyone you know - a handy Andy or Andrea?  Our games offer at recent Fayres has been greatly enhanced by the carpentry and artistic skills of family members, but we’re always looking for new ideas.  If you could help with this, please email us at
+pta@dovedaleprimary.co.uk
+Do you have any great fundraising ideas yourself?  If so, please email us at
+pta@dovedaleprimary.co.uk
+Files to Download
+PTA Newsletters - Autumn 202425.pdf
+window.pages = {"data":[{"id":"14938","title":"Applying for a place at Dovedale Primary School","current":0,"link":"\/page\/applying-for-a-place-at-dovedale-primary-school\/14938","link_target":"_self"},{"id":"14933","title":"School Meal Menus","current":0,"link":"\/page\/school-meal-menus\/14933","link_target":"_self"},{"id":"14944","title":"Out of Hours Kids Club","current":0,"link":"\/page\/out-of-hours-kids-club\/14944","link_target":"_self"},{"id":"20206","title":"Dovedale Children's Centre","current":0,"link":"\/page\/dovedale-childrens-centre\/20206","link_target":"_self"},{"id":"15009","title":"Governors","current":0,"link":"\/page\/governors\/15009","link_target":"_self"},{"id":"23682","title":"Attainment and Standards","current":0,"link":"\/page\/attainment-and-standards\/23682","link_target":"_self"},{"id":"14936","title":"School Policies","current":0,"link":"\/page\/school-policies\/14936","link_target":"_self"},{"id":"26247","title":"Pupil Premium","current":0,"link":"\/page\/pupil-premium\/26247","link_target":"_self"},{"id":"32974","title":"Ofsted reports","current":0,"link":"\/page\/ofsted-reports\/32974","link_target":"_self"},{"id":"38045","title":"P.E and Sport Premium","current":0,"link":"\/page\/pe-and-sport-premium\/38045","link_target":"_self"},{"id":"14946","title":"Staff","current":0,"link":"\/page\/staff\/14946","link_target":"_self"},{"id":"17096","title":"Attendance","current":0,"link":"\/page\/attendance\/17096","link_target":"_self"},{"id":"14997","title":"Term Dates","current":0,"link":"\/page\/term-dates\/14997","link_target":"_self"},{"id":"28104","title":"Uniform","current":0,"link":"\/page\/uniform\/28104","link_target":"_self"},{"id":"104794","title":"Medical","current":0,"link":"\/page\/medical\/104794","link_target":"_self"},{"id":"18137","title":"Dovedale PTA","current":1,"link":"\/page\/dovedale-pta\/18137","link_target":"_self"},{"id":"143343","title":"Letters and school information","current":0,"link":"\/page\/letters-and-school-information\/143343","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

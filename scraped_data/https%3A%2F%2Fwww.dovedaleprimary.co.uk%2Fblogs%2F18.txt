@@ -1,0 +1,160 @@
+Dovedale Primary School: Our blogs
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Our blogs
+Page
+1
+2
+......
+17
+18
+19
+A Way Home - Sequencing Key Events
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+A Way Home - Concsience Alley and Hotline advice roleplay
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Weird Science Assembly
+, by Mrs Cannon
+Introducing our new Eco Reps for 2016!
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Last Day Fun in 6C
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+6C Christmas cards and calendars
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+6OT Christmas Party
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Chester
+, by  Year 4 team - Mrs Gudgeon, Miss Middleton, Miss Turner, Miss Davis
+A Christmas Carol story maps
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Art: Creating Victorian Street scenes
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Drama: Using the flashback and flash forward scenes from The Christmas Carol by Charles Dickens
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Water Polo runners-up.
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+The Water Cycle: Making a 3D Water Cycle Using Art Material
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Altru Drama Company (Viking Workshop)
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Mindfullness
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Weeping windows
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Chocolate chunking divison
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Burger Sentences
+, by  Year 4 team - Mrs Gudgeon, Miss Middleton, Miss Turner, Miss Davis
+Vikings drama afternoon
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Altru Drama Company: The Vikings
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Water cycle 3D models
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Book Review for Pongy Stinkbelly
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Poppy Art
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Reading Skills
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Preposition Artwork
+, by  Year 6 team - Miss Cordon, Mr Powell, Mr O'Toole
+Page
+1
+2
+......
+17
+18
+19
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

@@ -1,0 +1,131 @@
+Dovedale Primary School: Science
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Science
+Intent
+At Dovedale, we ensure that our pupils, including vulnerable children and those with SEND, recognise the importance of Science in every aspect of their daily lives. We aim to increase their Science Capital and teach key knowledge that has been identified for each topic, enabling progression throughout and across year groups. Misconceptions are dealt with swiftly and effectively addressed to enhance progression. By developing their natural curiosity, we encourage respect for living organisms and the physical environment and provide opportunities to be reflective and critical of evidence.
+Through our progressive skills, we develop our pupils’:
+scientific knowledge and conceptual understanding, building on prior knowledge children have acquired.
+understanding of the nature, processes and methods of Science through the 5 types of enquiry that help to answer questions about the world around them.
+to use their scientific knowledge to understand the uses and implications of Science, today and for the future, drawing on knowledge and expertise from our school and the wider community.
+use of working scientifically skills so that they may apply their knowledge of science whilst making observations, predicting, using equipment, conducting experiments and explaining concepts confidently.
+to respect the materials and equipment they handle.
+to be enthusiastic and enjoy scientific learning and discovery.
+We know we have succeeded if our children remain curious and continue to ask questions about the world around them.
+Implementation
+At Dovedale, through creating a positive, can-do attitude to science within classrooms, children understand that they are capable of achieving high standards. Our approach to the teaching and learning of science involves the following:
+To enable our pupils to reach their full potential, we cover the objectives set out in the Programmes of Study in the National Curriculum. We promote our six principles in lessons and the importance of working scientifically skills along with the 5 enquiry types through regular ‘hands on’ experiences. Teachers are supported from subject leaders to ensure NC is covered appropriately.
+We build upon the learning and skills year upon year. Each lesson begins with a ‘knowledge review starter’ where children review knowledge from previous years, topics, and weeks (current topic). These also include review of key vocabulary from within the Science curriculum. Through frequent revisiting, it allows children’s knowledge to transfer from short term to long term memory more effectively. Knowledge reviews are tailored to each class depending on where they have shown a previous weakness in areas of the Science curriculum.
+Further low-stake quizzes throughout the year at regular intervals ensure that: past topics are revisited and knowledge is embedded. Both lesson starters and quizzes allow for any misconceptions to be addressed within the topic.
+We mix the content knowledge and investigation skills needed to solve Science problems and make decisions and predictions based on what they have learned. Our lessons also allow our pupils to practise their Maths and English whilst developing their reasoning and problem solving skills
+The profile of science and Science Capital is raised by inviting science visitors to school and allowing children to come off time-table in order to take part in specific science events and workshops. We celebrate Science week each year where the entire week is dedicated to an afternoon of Science, either in line with the current topic or a special ‘wow’ science lesson. We encourage parents from our school with a science background to become involved and attend a science careers morning for children in UKS2 while also having working scientifically evenings for parents and children to come and learn and have fun.
+By linking Science concepts to everyday life so our pupils can understand the world around them in a scientific way. This will enable pupils to have transferable skills across other subject disciplines, without impacting on the collection of specific scientific knowledge and skills, ensuring that pupils retain knowledge that will readily prepare them for secondary school.
+Impact
+At Dovedale, we aim for all children to make good progress in Science. Knowledge and understanding will be secured and embedded so that children are able to achieve a potential career in Science.  Formative assessment is used to record pupils’ understanding of an objective and helps to plan for opportunities to learn more and remember more. Each Science unit includes a pre and post assessment, and will contain continuous assessment through mini quizzes, targeted questions and knowledge reviews which inform further planning and learning. We regularly assess their working scientifically skills. This is to ensure a clear progression in knowledge, skills and understanding. Leaders conduct book monitoring, learning walks and pupil voice to establish the impact. Our curriculum content is reviewed at the end of each topic. We strive to give our children experience of science beyond the curriculum. As a result, our children are ambitious. Through our curriculum and enhancements, children have first-hand experience of how science has changed our lives and are encouraged to be
+responsible
+for being the change that is vital for society’s future. Our science curriculum will foster a healthy curiosity and promotes
+respect
+for the living and non-living aspects of our universe.
+Our Vision:
+We aim for our children to develop a sense of excitement and curiosity about the world they live in - and beyond.
+Our
+Principles:
+Files to Download
+Science Overview 2024-2025.pdf
+Science Progression of skills 2024-2025.pdf
+Science Long Term Plan 2024-2025.pdf
+window.pages = {"data":[{"id":"25620","title":"English","current":0,"link":"\/page\/english\/25620","link_target":"_self"},{"id":"25621","title":"Science","current":1,"link":"\/page\/science\/25621","link_target":"_self"},{"id":"19339","title":"Mathematics","current":0,"link":"\/page\/mathematics\/19339","link_target":"_self"},{"id":"25625","title":"Computing","current":0,"link":"\/page\/computing\/25625","link_target":"_self"},{"id":"39806","title":"Design & Technology","current":0,"link":"\/page\/design-technology\/39806","link_target":"_self"},{"id":"39808","title":"Geography","current":0,"link":"\/page\/geography\/39808","link_target":"_self"},{"id":"39809","title":"History","current":0,"link":"\/page\/history\/39809","link_target":"_self"},{"id":"39810","title":"Modern Foreign Languages","current":0,"link":"\/page\/modern-foreign-languages\/39810","link_target":"_self"},{"id":"25626","title":"Physical Education","current":0,"link":"\/page\/physical-education\/25626","link_target":"_self"},{"id":"39811","title":"Music","current":0,"link":"\/page\/music\/39811","link_target":"_self"},{"id":"39812","title":"PSHE and RSE","current":0,"link":"\/page\/pshe-and-rse\/39812","link_target":"_self"},{"id":"25627","title":"Religious Education","current":0,"link":"\/page\/religious-education\/25627","link_target":"_self"},{"id":"39805","title":"Art and Design","current":0,"link":"\/page\/art-and-design\/39805","link_target":"_self"},{"id":"141257","title":"Forest School","current":0,"link":"\/page\/forest-school\/141257","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

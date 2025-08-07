@@ -1,0 +1,107 @@
+Dovedale Primary School: Year 6 Weekly Blog 22.03.19
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Year 6 Weekly Blog 22.03.19
+Date:
+24th Mar 2019 @ 4:54pm
+This week in English, Year 6 began a new text, The Tulip Touch, and began to learn about some very intriguing characters of a similar age to our cohort, and, after an analysis of the main character and those most closely linked to her in the story, we wrote a diary entry to explore the idea of unlikely friendships and contrasting lifestyles.
+In maths we have been hammering fractions, addition and subtraction, arithmetic and all manner of reasoning tasks to help us prepare for SATs in May. We are so proud of our year 6s and are already delighted with their achievements this year. Despite SATs tests in May, we think you are all stars and we are delighted with the skills and knowledge that you have developed, ready to take forwards into senior school next year.
+Crime and Punishment has proved a popular topic in history, and this week, year 6 children researched the life of a Victorian policeman (‘Bobbies’ - in short - or ‘Peelers’ after their founder, Robert Peel). We wrote a police log from the perspective off a Victorian Peeler, describing events they might see on London streets - from con men and pick pockets to vagrants and pet kidnappers.
+In science we have been learning about variation in species and we investigated variation amongst 11 year olds, presenting data to show differences in height, arm length, eye/ hair colour and shoe size. In 6OT, it seems brown eyes are truly the dominant gene!
+Roy Lichtenstein was the subject of some investigation in Art, linking nicely to our topic - Comic Strips. Check out our own take on his works, using our twitter account. You will be impressed by our Lichtenstein inspired creations.
+See you on Monday. Don’t forget your homework!
+window.classes = {"data":[{"id":"2183","title":"Reception","current":0,"link":"\/class\/reception"},{"id":"3360","title":"Year 1","current":0,"link":"\/class\/year-1"},{"id":"3362","title":"Year 2","current":0,"link":"\/class\/year-2"},{"id":"2191","title":"Year 3","current":0,"link":"\/class\/year-3"},{"id":"2177","title":"Year 4","current":0,"link":"\/class\/year-4"},{"id":"2195","title":"Year 5","current":0,"link":"\/class\/year-5"},{"id":"2197","title":"Year 6","current":1,"link":"\/class\/year-6"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

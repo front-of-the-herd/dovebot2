@@ -1,0 +1,139 @@
+Dovedale Primary School: Child Protection and Safeguarding
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Child Protection and Safeguarding
+Our school is committed to the health, wellbeing and safety of all our children, parents/carers and staff.
+We have a robust Child Protection Policy in place which is available below or a paper copy can be requested from the school office.
+Safeguarding Officers
+:
+Designated Safeguarding Lead
+- Mr Nik Smith Head Teacher
+Deputy Safeguarding Officers
+- Mrs Joanne Jones Deputy Head Teacher
+Mrs Issy Rogers Assistant Head Teacher for Inclusion
+Mr Matthew O'Toole Assisant Head Teacher
+Mrs Holly Dwan Assistant Head Teacher
+Mrs Dee Newby Assistant Head Teacher
+Safeguarding / Child Protection Governor
+- Mrs Sarah Finnegan
+If you need support you can click the following links:
+Childline
+https://www.childline.org.uk/
+Report online abuse or online issues to CEOP
+http://www.ceop.police.uk/safety-centre/
+PREVENT
+As part of Dovedale Primary School's commitment to safeguarding and child protection we fully support the government's
+Prevent Duty Guidance.
+What is Prevent ?
+The aim of Prevent is to stop people from becoming terrorists or supporting terrorism.
+The objectives of Prevent are to:
+tackle the ideological causes of terrorism
+intervene early to support people susceptible to radicalisation
+enable people who have already engaged in terrorism to disengage and rehabilitate
+Click the link below to access the Government's Prevent Duty Guidance:
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1182780/14.258_HO_Prevent_Duty_Guidance_v5c.pdf
+Files to Download
+Links to resources for parents
+Advice for parents on cyberbullying
+Advice for parents on extremism
+Parent information on the PREVENT strategy
+Spot the signs of child sexual exploitation
+The underwear rule
+Guide to safer sleep for you and your baby
+Parents factsheet on Fortnite
+Child Protection Policy 2024-2025.pdf
+window.pages = {"data":[]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

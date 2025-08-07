@@ -1,0 +1,123 @@
+Dovedale Primary School: Weekly Y3 Blog 15.2.19
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Weekly Y3 Blog 15.2.19
+Date:
+15th Feb 2019 @ 1:24pm
+This week in Year 3, we have been working extremely hard and enjoying the following activities:
+Maths – A range of money problems involving:
+Converting pounds and pence
+Using money in practical contexts
+English – We have focused on cross-curricular History writing during our English lessons this week. We have written a diary entry from the perspective of a Bronze Age child who has to go down the mine for the very first time.
+History – We have focused the changes from the Stone Age to the Bronze Age
+Science – Plants – We looked at our investigation we set up several weeks ago to find out if a plant needs light and soil to survive and grow.
+P.E – Dance
+Music, PSHE and French
+After half term in Year 3, we shall be enjoying the following activities:
+Maths - We shall continue our work on money for one more week. During this unit, we will focus on the following objectives:
+Adding money
+Subtracting money
+Giving change
+Using money in practical contexts
+English – We shall start our explanation topic using the story of Lego. Over half term, watch https://www.youtube.com/watch?v=NdDU_BBJW9Y
+Geography – Where on Earth are we? Over this unit, we shall focus on the following objectives:
+Improve locational knowledge through identifying the position and significance of latitude, longitude, Equator, Northern Hemisphere, South Hemisphere, the Tropics of Cancer and Capricorn, Arctic and Antarctic Circle
+Practice geographical skills through using maps, atlases, globes and digital/computer mapping to locate features
+Use the eight points of the compass to build their knowledge of the wider world
+Science – Light
+Music, Computing and French
+window.classes = {"data":[{"id":"2183","title":"Reception","current":0,"link":"\/class\/reception"},{"id":"3360","title":"Year 1","current":0,"link":"\/class\/year-1"},{"id":"3362","title":"Year 2","current":0,"link":"\/class\/year-2"},{"id":"2191","title":"Year 3","current":1,"link":"\/class\/year-3"},{"id":"2177","title":"Year 4","current":0,"link":"\/class\/year-4"},{"id":"2195","title":"Year 5","current":0,"link":"\/class\/year-5"},{"id":"2197","title":"Year 6","current":0,"link":"\/class\/year-6"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

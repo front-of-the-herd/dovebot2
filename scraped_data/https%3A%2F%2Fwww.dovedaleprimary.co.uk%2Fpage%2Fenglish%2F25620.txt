@@ -1,0 +1,122 @@
+Dovedale Primary School: English
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+English
+Intent
+At Dovedale Primary School, it is our intent to inspire all our pupils, including those with SEND and our vulnerable children, to write by delivering an engaging and exciting curriculum. Additionally, we aim to help all children develop into articulate and imaginative communicators, who are well-equipped with the skills they need to become life-long learners. We believe that English is an essential part of the curriculum; a subject that not only stands alone, but one that should be an integral part of all learning. Through immersing our pupils in the wonders of quality texts, we hope to instil a love for reading, a passion for discovery and a confidence to explore their imagination.
+We aim to deliver daily English lessons that inspire children and recognise the importance of nurturing a culture where children love to read, take pride in their writing, and can clearly and accurately adapt their language and style for a range of contexts. The acquisition of language skills is of the utmost importance, and we build confidence in basic language skills to enable our pupils to communicate creatively, imaginatively and effectively, preparing them for the future. We therefore value the importance of English as an essential tool for life and want every pupil to achieve their full potential in all aspects – to become a reader, a writer and a confident speaker.
+Implementation
+Our English curriculum is derived around a sequence of high-quality texts to engage and enthuse our pupils. Each year group uses ‘
+Literacy Counts,
+Read to Write’
+units which enable teachers to provide high-quality teaching of writing through high-quality literature. These detailed units of work centre on engaging, vocabulary-rich texts, with a wealth of writing opportunities and a clear progression of skills. Each book is used to create opportunities to develop vocabulary acquisition, grammar and punctuation knowledge and understanding to use and apply across the wider curriculum; explore the writing structure and features of different genres; plan and write pieces of writing with a clear context and purpose, whilst evaluating the effectiveness of writing.
+In addition to reading to promote writing, we create opportunities to develop reading fluency and comprehension with a focus on key reading strategies and skills. Early Reading is taught through Read Write Inc (synthetic phonics programme) which continues into KS2 for pupils who need further consolidation.
+We follow whole class reading sessions which allow all pupils to read with the teacher, moving through a wide range of texts and benefiting from teacher modelling, questioning and feedback. We use challenging, age-appropriate texts and immerse our pupils in the language, while providing scaffolding for our vulnerable pupils. This way, all children are exposed to over 50 high quality texts a year, while building up their repertoire of authors, genres, and vocabulary. We encourage whole class talk, pair and group talk and individual thinking during a three-day cycle. Follow-up questions generate authentic dialogue in the classroom which develops real depth in pupils’ responses and thinking.
+Across school, we are passionate about promoting reading for pleasure. We encourage children to foster a love of reading and to take ownership when choosing which books to read. We have a new library and reading for pleasure trolleys with up to date and award-winning texts for the children to read at leisure. We have designated areas in all classrooms and around the school for pupils to feel comfortable and relaxed when reading, and all teachers read to the children once per day from a class novel.
+A rigorous and consistent spelling programme based on a phoneme-centred approach is used throughout the whole school, from Reception through to Year 6. In Early Years, children will learn to spell through Read Write Inc. phonics teaching, in small groups, daily until they reach Key Stage 2. From Year 3, children will be taught spelling practise, daily, using a weekly set of words that have a common phoneme sound in them – a sound which they will have been exposed to previously KS1.
+Impact
+The children are engaged and thoughtful in lessons, producing high-quality writing which incorporates ambitious vocabulary and literary devices. Through their time at our school, their communication skills are strengthened and children make good progress. Most importantly, through establishing strong writing skills, children are more equipped to access the entire curriculum and transition to secondary school with confidence in their own ability.
+Our formative assessment is used to record pupils’ understanding of an objective and helps to plan for opportunities to learn more and remember more. We consistently review objectives from previous learning to ensure a clear progression in knowledge, skills and understanding. Leaders conduct book monitoring, learning walks and pupil voice to establish the impact.  Our curriculum content is reviewed at the end of each topic and writing is cross-moderated in each year group twice a year.
+English Planning
+We use the Read to Write teaching resources by Literacy Counts as the basis of our English planning from Reception to Year Six.  It incorporates reading, writing, vocabulary, grammar and punctuation skills through teaching, aided by high quality texts, each half term. See curriculum maps on class pages for writing outcomes.
+Whole School Curriculum Overview for English
+Other pages
+Reading
+Phonics
+Spelling
+Writing
+window.pages = {"data":[{"id":"25620","title":"English","current":1,"link":"\/page\/english\/25620","link_target":"_self"},{"id":"25621","title":"Science","current":0,"link":"\/page\/science\/25621","link_target":"_self"},{"id":"19339","title":"Mathematics","current":0,"link":"\/page\/mathematics\/19339","link_target":"_self"},{"id":"25625","title":"Computing","current":0,"link":"\/page\/computing\/25625","link_target":"_self"},{"id":"39806","title":"Design & Technology","current":0,"link":"\/page\/design-technology\/39806","link_target":"_self"},{"id":"39808","title":"Geography","current":0,"link":"\/page\/geography\/39808","link_target":"_self"},{"id":"39809","title":"History","current":0,"link":"\/page\/history\/39809","link_target":"_self"},{"id":"39810","title":"Modern Foreign Languages","current":0,"link":"\/page\/modern-foreign-languages\/39810","link_target":"_self"},{"id":"25626","title":"Physical Education","current":0,"link":"\/page\/physical-education\/25626","link_target":"_self"},{"id":"39811","title":"Music","current":0,"link":"\/page\/music\/39811","link_target":"_self"},{"id":"39812","title":"PSHE and RSE","current":0,"link":"\/page\/pshe-and-rse\/39812","link_target":"_self"},{"id":"25627","title":"Religious Education","current":0,"link":"\/page\/religious-education\/25627","link_target":"_self"},{"id":"39805","title":"Art and Design","current":0,"link":"\/page\/art-and-design\/39805","link_target":"_self"},{"id":"141257","title":"Forest School","current":0,"link":"\/page\/forest-school\/141257","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

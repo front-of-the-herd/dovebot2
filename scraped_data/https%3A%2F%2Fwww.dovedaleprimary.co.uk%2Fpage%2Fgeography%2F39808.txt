@@ -1,0 +1,115 @@
+Dovedale Primary School: Geography
+{
+          "@context" : "https://schema.org",
+          "@type" : "WebSite",
+          "name" : "Dovedale Primary School",
+          "url" : "https://www.dovedaleprimary.co.uk"
+        }
+PARENT LOGIN
+COOKIES / PRIVACY
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');}
+Dovedale Primary School
+Home
+Classes
+Reception
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Year 6
+Key Information
+Applying for a place at Dovedale Primary School
+School Meal Menus
+Out of Hours Kids Club
+Dovedale Children's Centre
+Governors
+Attainment and Standards
+School Policies
+Pupil Premium
+Ofsted reports
+Parent View
+P.E and Sport Premium
+Staff
+Attendance
+Term Dates
+Uniform
+Medical
+Dovedale PTA
+Letters and school information
+Pastoral Support Team
+Child Protection and Safeguarding
+Dovedale Curriculum
+English
+Reading
+Phonics
+Spelling
+Writing
+Science
+Mathematics
+Recommended maths website to support children at home
+Computing
+On-line safety and filtering
+Design & Technology
+Geography
+History
+Modern Foreign Languages
+Physical Education
+Music
+PSHE and RSE
+School of Sanctuary
+John Cole Award for Excellence in Equality and Inclusion
+Personal Development
+Rainbow Flag Award
+Religious Education
+Art and Design
+Artsmark Silver Award - 2022
+Artsmark Silver Award - November 2020
+What does drawing look like at Dovedale?
+Art Experiences
+What does painting look like at Dovedale?
+Forest School
+Children
+Prefects
+School Council
+Rocket Resilience Champions
+Newspaper Club
+Wellbeing Ambassadors
+Eco Warriors
+Reading Ambassadors
+Sports Ambassadors
+eCadets
+SEND
+Newsletters
+Our School Values and Ethos
+Contact
+Geography
+Intent
+At Dovedale, we have designed our geography curriculum to inspire and motivate a generation of Geographers that harvest the knowledge and skills for secondary school and life. Geography is important in our school as it provides a means of exploring, appreciating and understanding the world in which we live and how it has evolved. At its heart, we have placed an aim to inspire pupils to be curious and fascinated by the world around them and further afield. We aim to ensure our pupils, including those with SEND or vulnerable children, understand and experience different aspects of the world. We do this by stimulating their inquisitiveness and imagination to enable them to gain a better understand of people, places and environments; the interactions between them; the human and physical geography of their local area, the United Kingdom, Europe and the Wider World.
+Geography at Dovedale matches the content and ambition of the National Curriculum but importantly, each unit has been carefully mapped out to ensure the building blocks of knowledge and skills are built upon as each child progresses through their learning journey. We want our pupils to gain confidence and experiences of geographical knowledge, understanding and skills through specifically planned learning opportunities and fieldwork. They are encouraged to immerse themselves in a variety of learning opportunities to secure their knowledge of places, processes and geographical skills.
+The curriculum has been adapted to provide opportunities to develop vocabulary and experiences of the wider world. Vocabulary is central to the units of work that we complete here at Dovedale and enables pupils to communicate their knowledge and ideas in geography lessons.
+Implementation
+Here at Dovedale our progressive units of work are designed following the National Curriculum but modified for our pupils and their experiences.  Staff continually review and adapt learning to meet our pupil’s needs.  Fieldwork is incorporated into the units of work to actively engage children in their learning.
+At Dovedale we follow a progressive subject overview to ensure exposure to a breadth of topics as well as coverage of the National Curriculum objectives across the school. As a school we have created a cycle of lessons within each year group, which carefully plan for progression and depth. We have concentrated on the geographical skills suited to each age group to ensure we implement a curriculum that is progressive throughout the whole school, with regular opportunities to be challenged. Key vocabulary is promoted during lessons and through displays to promote a language rich Geography curriculum essential to the successful acquisition of knowledge and understanding in Geography.
+Teachers use their judgement to implement a variety of teaching approaches to deliver geography lessons and follow their pupils’ interests to ensure their learning is engaging, broad and balanced. Pupils have access to a range of secondary resources such as maps, atlases and digital technology to develop their knowledge and understanding that is integral to their learning. We cater the curriculum for all needs and abilities to ensure learners will be supported in line with the school’s commitment to inclusion.
+Impact
+At Dovedale, our geography curriculum will ensure all of our pupils, regardless of different backgrounds and starting points, have the same opportunities to explore and enquire about the world in which they live. Knowledge, understanding and skills will be secured and embedded so that all pupils achieve their full potential.
+They will develop a curiosity of the physical world around them and will have the geographical language to continue to articulate their questions as they continue their education.
+Here at Dovedale, we model and encourage resilience, responsibility and respect for the world and its resources. Children will be respectful of the diverse world around them and its people and nature.
+Files to Download
+Geography Progression of Skills EYFS to Y6 2024-2025.pdf
+Geography Overview 2024-2025.pdf
+Geography Long Term Plan 2024-25.pdf
+window.pages = {"data":[{"id":"25620","title":"English","current":0,"link":"\/page\/english\/25620","link_target":"_self"},{"id":"25621","title":"Science","current":0,"link":"\/page\/science\/25621","link_target":"_self"},{"id":"19339","title":"Mathematics","current":0,"link":"\/page\/mathematics\/19339","link_target":"_self"},{"id":"25625","title":"Computing","current":0,"link":"\/page\/computing\/25625","link_target":"_self"},{"id":"39806","title":"Design & Technology","current":0,"link":"\/page\/design-technology\/39806","link_target":"_self"},{"id":"39808","title":"Geography","current":1,"link":"\/page\/geography\/39808","link_target":"_self"},{"id":"39809","title":"History","current":0,"link":"\/page\/history\/39809","link_target":"_self"},{"id":"39810","title":"Modern Foreign Languages","current":0,"link":"\/page\/modern-foreign-languages\/39810","link_target":"_self"},{"id":"25626","title":"Physical Education","current":0,"link":"\/page\/physical-education\/25626","link_target":"_self"},{"id":"39811","title":"Music","current":0,"link":"\/page\/music\/39811","link_target":"_self"},{"id":"39812","title":"PSHE and RSE","current":0,"link":"\/page\/pshe-and-rse\/39812","link_target":"_self"},{"id":"25627","title":"Religious Education","current":0,"link":"\/page\/religious-education\/25627","link_target":"_self"},{"id":"39805","title":"Art and Design","current":0,"link":"\/page\/art-and-design\/39805","link_target":"_self"},{"id":"141257","title":"Forest School","current":0,"link":"\/page\/forest-school\/141257","link_target":"_self"}]};
+In this
+Section
+Student Login
+STAFF LOGIN
+PARENT LOGIN
+SCHOOL BLOGS
+© Dovedale Primary School. All Rights Reserved. Website and VLE by
+School Spider
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());  
+gtag('config', 'G-RRNWFG7B6C');

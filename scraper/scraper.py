@@ -67,6 +67,8 @@ def scrape_website(base_url):
 
         except requests.exceptions.RequestException as e:
             print(f"Error scraping {url}: {e}")
+    
+    print("\nScraping complete.")
 
 if __name__ == "__main__":
     school_website_url = "https://www.dovedaleprimary.co.uk/"
